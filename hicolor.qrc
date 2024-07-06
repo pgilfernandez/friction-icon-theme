@@ -72,6 +72,7 @@
  <file alias='icons/hicolor/16x16/legacy/disk_drive.png'>hicolor/16x16/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/16x16/legacy/dots.png'>hicolor/16x16/legacy/dots.png</file>
  <file alias='icons/hicolor/16x16/legacy/downarrow.png'>hicolor/16x16/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/16x16/legacy/duplicate.png'>hicolor/16x16/legacy/duplicate.png</file>
  <file alias='icons/hicolor/16x16/legacy/error.png'>hicolor/16x16/legacy/error.png</file>
  <file alias='icons/hicolor/16x16/legacy/fastforward.png'>hicolor/16x16/legacy/fastforward.png</file>
  <file alias='icons/hicolor/16x16/legacy/file_blank.png'>hicolor/16x16/legacy/file_blank.png</file>
@@ -231,6 +232,7 @@
  <file alias='icons/hicolor/17x17/legacy/disk_drive.png'>hicolor/17x17/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/17x17/legacy/dots.png'>hicolor/17x17/legacy/dots.png</file>
  <file alias='icons/hicolor/17x17/legacy/downarrow.png'>hicolor/17x17/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/17x17/legacy/duplicate.png'>hicolor/17x17/legacy/duplicate.png</file>
  <file alias='icons/hicolor/17x17/legacy/error.png'>hicolor/17x17/legacy/error.png</file>
  <file alias='icons/hicolor/17x17/legacy/fastforward.png'>hicolor/17x17/legacy/fastforward.png</file>
  <file alias='icons/hicolor/17x17/legacy/file_blank.png'>hicolor/17x17/legacy/file_blank.png</file>
@@ -390,6 +392,7 @@
  <file alias='icons/hicolor/20x20/legacy/disk_drive.png'>hicolor/20x20/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/20x20/legacy/dots.png'>hicolor/20x20/legacy/dots.png</file>
  <file alias='icons/hicolor/20x20/legacy/downarrow.png'>hicolor/20x20/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/20x20/legacy/duplicate.png'>hicolor/20x20/legacy/duplicate.png</file>
  <file alias='icons/hicolor/20x20/legacy/error.png'>hicolor/20x20/legacy/error.png</file>
  <file alias='icons/hicolor/20x20/legacy/fastforward.png'>hicolor/20x20/legacy/fastforward.png</file>
  <file alias='icons/hicolor/20x20/legacy/file_blank.png'>hicolor/20x20/legacy/file_blank.png</file>
@@ -549,6 +552,7 @@
  <file alias='icons/hicolor/22x22/legacy/disk_drive.png'>hicolor/22x22/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/22x22/legacy/dots.png'>hicolor/22x22/legacy/dots.png</file>
  <file alias='icons/hicolor/22x22/legacy/downarrow.png'>hicolor/22x22/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/22x22/legacy/duplicate.png'>hicolor/22x22/legacy/duplicate.png</file>
  <file alias='icons/hicolor/22x22/legacy/error.png'>hicolor/22x22/legacy/error.png</file>
  <file alias='icons/hicolor/22x22/legacy/fastforward.png'>hicolor/22x22/legacy/fastforward.png</file>
  <file alias='icons/hicolor/22x22/legacy/file_blank.png'>hicolor/22x22/legacy/file_blank.png</file>
@@ -708,6 +712,7 @@
  <file alias='icons/hicolor/24x24/legacy/disk_drive.png'>hicolor/24x24/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/24x24/legacy/dots.png'>hicolor/24x24/legacy/dots.png</file>
  <file alias='icons/hicolor/24x24/legacy/downarrow.png'>hicolor/24x24/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/24x24/legacy/duplicate.png'>hicolor/24x24/legacy/duplicate.png</file>
  <file alias='icons/hicolor/24x24/legacy/error.png'>hicolor/24x24/legacy/error.png</file>
  <file alias='icons/hicolor/24x24/legacy/fastforward.png'>hicolor/24x24/legacy/fastforward.png</file>
  <file alias='icons/hicolor/24x24/legacy/file_blank.png'>hicolor/24x24/legacy/file_blank.png</file>
@@ -867,6 +872,7 @@
  <file alias='icons/hicolor/26x26/legacy/disk_drive.png'>hicolor/26x26/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/26x26/legacy/dots.png'>hicolor/26x26/legacy/dots.png</file>
  <file alias='icons/hicolor/26x26/legacy/downarrow.png'>hicolor/26x26/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/26x26/legacy/duplicate.png'>hicolor/26x26/legacy/duplicate.png</file>
  <file alias='icons/hicolor/26x26/legacy/error.png'>hicolor/26x26/legacy/error.png</file>
  <file alias='icons/hicolor/26x26/legacy/fastforward.png'>hicolor/26x26/legacy/fastforward.png</file>
  <file alias='icons/hicolor/26x26/legacy/file_blank.png'>hicolor/26x26/legacy/file_blank.png</file>
@@ -1026,6 +1032,7 @@
  <file alias='icons/hicolor/28x28/legacy/disk_drive.png'>hicolor/28x28/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/28x28/legacy/dots.png'>hicolor/28x28/legacy/dots.png</file>
  <file alias='icons/hicolor/28x28/legacy/downarrow.png'>hicolor/28x28/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/28x28/legacy/duplicate.png'>hicolor/28x28/legacy/duplicate.png</file>
  <file alias='icons/hicolor/28x28/legacy/error.png'>hicolor/28x28/legacy/error.png</file>
  <file alias='icons/hicolor/28x28/legacy/fastforward.png'>hicolor/28x28/legacy/fastforward.png</file>
  <file alias='icons/hicolor/28x28/legacy/file_blank.png'>hicolor/28x28/legacy/file_blank.png</file>
@@ -1185,6 +1192,7 @@
  <file alias='icons/hicolor/32x32/legacy/disk_drive.png'>hicolor/32x32/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/32x32/legacy/dots.png'>hicolor/32x32/legacy/dots.png</file>
  <file alias='icons/hicolor/32x32/legacy/downarrow.png'>hicolor/32x32/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/32x32/legacy/duplicate.png'>hicolor/32x32/legacy/duplicate.png</file>
  <file alias='icons/hicolor/32x32/legacy/error.png'>hicolor/32x32/legacy/error.png</file>
  <file alias='icons/hicolor/32x32/legacy/fastforward.png'>hicolor/32x32/legacy/fastforward.png</file>
  <file alias='icons/hicolor/32x32/legacy/file_blank.png'>hicolor/32x32/legacy/file_blank.png</file>
@@ -1344,6 +1352,7 @@
  <file alias='icons/hicolor/48x48/legacy/disk_drive.png'>hicolor/48x48/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/48x48/legacy/dots.png'>hicolor/48x48/legacy/dots.png</file>
  <file alias='icons/hicolor/48x48/legacy/downarrow.png'>hicolor/48x48/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/48x48/legacy/duplicate.png'>hicolor/48x48/legacy/duplicate.png</file>
  <file alias='icons/hicolor/48x48/legacy/error.png'>hicolor/48x48/legacy/error.png</file>
  <file alias='icons/hicolor/48x48/legacy/fastforward.png'>hicolor/48x48/legacy/fastforward.png</file>
  <file alias='icons/hicolor/48x48/legacy/file_blank.png'>hicolor/48x48/legacy/file_blank.png</file>
@@ -1503,6 +1512,7 @@
  <file alias='icons/hicolor/64x64/legacy/disk_drive.png'>hicolor/64x64/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/64x64/legacy/dots.png'>hicolor/64x64/legacy/dots.png</file>
  <file alias='icons/hicolor/64x64/legacy/downarrow.png'>hicolor/64x64/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/64x64/legacy/duplicate.png'>hicolor/64x64/legacy/duplicate.png</file>
  <file alias='icons/hicolor/64x64/legacy/error.png'>hicolor/64x64/legacy/error.png</file>
  <file alias='icons/hicolor/64x64/legacy/fastforward.png'>hicolor/64x64/legacy/fastforward.png</file>
  <file alias='icons/hicolor/64x64/legacy/file_blank.png'>hicolor/64x64/legacy/file_blank.png</file>
@@ -1662,6 +1672,7 @@
  <file alias='icons/hicolor/96x96/legacy/disk_drive.png'>hicolor/96x96/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/96x96/legacy/dots.png'>hicolor/96x96/legacy/dots.png</file>
  <file alias='icons/hicolor/96x96/legacy/downarrow.png'>hicolor/96x96/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/96x96/legacy/duplicate.png'>hicolor/96x96/legacy/duplicate.png</file>
  <file alias='icons/hicolor/96x96/legacy/error.png'>hicolor/96x96/legacy/error.png</file>
  <file alias='icons/hicolor/96x96/legacy/fastforward.png'>hicolor/96x96/legacy/fastforward.png</file>
  <file alias='icons/hicolor/96x96/legacy/file_blank.png'>hicolor/96x96/legacy/file_blank.png</file>
@@ -1821,6 +1832,7 @@
  <file alias='icons/hicolor/128x128/legacy/disk_drive.png'>hicolor/128x128/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/128x128/legacy/dots.png'>hicolor/128x128/legacy/dots.png</file>
  <file alias='icons/hicolor/128x128/legacy/downarrow.png'>hicolor/128x128/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/128x128/legacy/duplicate.png'>hicolor/128x128/legacy/duplicate.png</file>
  <file alias='icons/hicolor/128x128/legacy/error.png'>hicolor/128x128/legacy/error.png</file>
  <file alias='icons/hicolor/128x128/legacy/fastforward.png'>hicolor/128x128/legacy/fastforward.png</file>
  <file alias='icons/hicolor/128x128/legacy/file_blank.png'>hicolor/128x128/legacy/file_blank.png</file>
@@ -1980,6 +1992,7 @@
  <file alias='icons/hicolor/192x192/legacy/disk_drive.png'>hicolor/192x192/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/192x192/legacy/dots.png'>hicolor/192x192/legacy/dots.png</file>
  <file alias='icons/hicolor/192x192/legacy/downarrow.png'>hicolor/192x192/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/192x192/legacy/duplicate.png'>hicolor/192x192/legacy/duplicate.png</file>
  <file alias='icons/hicolor/192x192/legacy/error.png'>hicolor/192x192/legacy/error.png</file>
  <file alias='icons/hicolor/192x192/legacy/fastforward.png'>hicolor/192x192/legacy/fastforward.png</file>
  <file alias='icons/hicolor/192x192/legacy/file_blank.png'>hicolor/192x192/legacy/file_blank.png</file>
@@ -2139,6 +2152,7 @@
  <file alias='icons/hicolor/256x256/legacy/disk_drive.png'>hicolor/256x256/legacy/disk_drive.png</file>
  <file alias='icons/hicolor/256x256/legacy/dots.png'>hicolor/256x256/legacy/dots.png</file>
  <file alias='icons/hicolor/256x256/legacy/downarrow.png'>hicolor/256x256/legacy/downarrow.png</file>
+ <file alias='icons/hicolor/256x256/legacy/duplicate.png'>hicolor/256x256/legacy/duplicate.png</file>
  <file alias='icons/hicolor/256x256/legacy/error.png'>hicolor/256x256/legacy/error.png</file>
  <file alias='icons/hicolor/256x256/legacy/fastforward.png'>hicolor/256x256/legacy/fastforward.png</file>
  <file alias='icons/hicolor/256x256/legacy/file_blank.png'>hicolor/256x256/legacy/file_blank.png</file>
