@@ -109,6 +109,7 @@
  <file alias='icons/hicolor/16x16/legacy/paint.png'>hicolor/16x16/legacy/paint.png</file>
  <file alias='icons/hicolor/16x16/legacy/pause.png'>hicolor/16x16/legacy/pause.png</file>
  <file alias='icons/hicolor/16x16/legacy/pivot-align-bottom.png'>hicolor/16x16/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/16x16/legacy/pivot-align-center.png'>hicolor/16x16/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/16x16/legacy/pivot-align-hcenter.png'>hicolor/16x16/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/16x16/legacy/pivot-align-left.png'>hicolor/16x16/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/16x16/legacy/pivot-align-right.png'>hicolor/16x16/legacy/pivot-align-right.png</file>
@@ -269,6 +270,7 @@
  <file alias='icons/hicolor/17x17/legacy/paint.png'>hicolor/17x17/legacy/paint.png</file>
  <file alias='icons/hicolor/17x17/legacy/pause.png'>hicolor/17x17/legacy/pause.png</file>
  <file alias='icons/hicolor/17x17/legacy/pivot-align-bottom.png'>hicolor/17x17/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/17x17/legacy/pivot-align-center.png'>hicolor/17x17/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/17x17/legacy/pivot-align-hcenter.png'>hicolor/17x17/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/17x17/legacy/pivot-align-left.png'>hicolor/17x17/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/17x17/legacy/pivot-align-right.png'>hicolor/17x17/legacy/pivot-align-right.png</file>
@@ -429,6 +431,7 @@
  <file alias='icons/hicolor/20x20/legacy/paint.png'>hicolor/20x20/legacy/paint.png</file>
  <file alias='icons/hicolor/20x20/legacy/pause.png'>hicolor/20x20/legacy/pause.png</file>
  <file alias='icons/hicolor/20x20/legacy/pivot-align-bottom.png'>hicolor/20x20/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/20x20/legacy/pivot-align-center.png'>hicolor/20x20/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/20x20/legacy/pivot-align-hcenter.png'>hicolor/20x20/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/20x20/legacy/pivot-align-left.png'>hicolor/20x20/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/20x20/legacy/pivot-align-right.png'>hicolor/20x20/legacy/pivot-align-right.png</file>
@@ -589,6 +592,7 @@
  <file alias='icons/hicolor/22x22/legacy/paint.png'>hicolor/22x22/legacy/paint.png</file>
  <file alias='icons/hicolor/22x22/legacy/pause.png'>hicolor/22x22/legacy/pause.png</file>
  <file alias='icons/hicolor/22x22/legacy/pivot-align-bottom.png'>hicolor/22x22/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/22x22/legacy/pivot-align-center.png'>hicolor/22x22/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/22x22/legacy/pivot-align-hcenter.png'>hicolor/22x22/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/22x22/legacy/pivot-align-left.png'>hicolor/22x22/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/22x22/legacy/pivot-align-right.png'>hicolor/22x22/legacy/pivot-align-right.png</file>
@@ -749,6 +753,7 @@
  <file alias='icons/hicolor/24x24/legacy/paint.png'>hicolor/24x24/legacy/paint.png</file>
  <file alias='icons/hicolor/24x24/legacy/pause.png'>hicolor/24x24/legacy/pause.png</file>
  <file alias='icons/hicolor/24x24/legacy/pivot-align-bottom.png'>hicolor/24x24/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/24x24/legacy/pivot-align-center.png'>hicolor/24x24/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/24x24/legacy/pivot-align-hcenter.png'>hicolor/24x24/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/24x24/legacy/pivot-align-left.png'>hicolor/24x24/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/24x24/legacy/pivot-align-right.png'>hicolor/24x24/legacy/pivot-align-right.png</file>
@@ -909,6 +914,7 @@
  <file alias='icons/hicolor/26x26/legacy/paint.png'>hicolor/26x26/legacy/paint.png</file>
  <file alias='icons/hicolor/26x26/legacy/pause.png'>hicolor/26x26/legacy/pause.png</file>
  <file alias='icons/hicolor/26x26/legacy/pivot-align-bottom.png'>hicolor/26x26/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/26x26/legacy/pivot-align-center.png'>hicolor/26x26/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/26x26/legacy/pivot-align-hcenter.png'>hicolor/26x26/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/26x26/legacy/pivot-align-left.png'>hicolor/26x26/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/26x26/legacy/pivot-align-right.png'>hicolor/26x26/legacy/pivot-align-right.png</file>
@@ -1069,6 +1075,7 @@
  <file alias='icons/hicolor/28x28/legacy/paint.png'>hicolor/28x28/legacy/paint.png</file>
  <file alias='icons/hicolor/28x28/legacy/pause.png'>hicolor/28x28/legacy/pause.png</file>
  <file alias='icons/hicolor/28x28/legacy/pivot-align-bottom.png'>hicolor/28x28/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/28x28/legacy/pivot-align-center.png'>hicolor/28x28/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/28x28/legacy/pivot-align-hcenter.png'>hicolor/28x28/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/28x28/legacy/pivot-align-left.png'>hicolor/28x28/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/28x28/legacy/pivot-align-right.png'>hicolor/28x28/legacy/pivot-align-right.png</file>
@@ -1229,6 +1236,7 @@
  <file alias='icons/hicolor/32x32/legacy/paint.png'>hicolor/32x32/legacy/paint.png</file>
  <file alias='icons/hicolor/32x32/legacy/pause.png'>hicolor/32x32/legacy/pause.png</file>
  <file alias='icons/hicolor/32x32/legacy/pivot-align-bottom.png'>hicolor/32x32/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/32x32/legacy/pivot-align-center.png'>hicolor/32x32/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/32x32/legacy/pivot-align-hcenter.png'>hicolor/32x32/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/32x32/legacy/pivot-align-left.png'>hicolor/32x32/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/32x32/legacy/pivot-align-right.png'>hicolor/32x32/legacy/pivot-align-right.png</file>
@@ -1389,6 +1397,7 @@
  <file alias='icons/hicolor/48x48/legacy/paint.png'>hicolor/48x48/legacy/paint.png</file>
  <file alias='icons/hicolor/48x48/legacy/pause.png'>hicolor/48x48/legacy/pause.png</file>
  <file alias='icons/hicolor/48x48/legacy/pivot-align-bottom.png'>hicolor/48x48/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/48x48/legacy/pivot-align-center.png'>hicolor/48x48/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/48x48/legacy/pivot-align-hcenter.png'>hicolor/48x48/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/48x48/legacy/pivot-align-left.png'>hicolor/48x48/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/48x48/legacy/pivot-align-right.png'>hicolor/48x48/legacy/pivot-align-right.png</file>
@@ -1549,6 +1558,7 @@
  <file alias='icons/hicolor/64x64/legacy/paint.png'>hicolor/64x64/legacy/paint.png</file>
  <file alias='icons/hicolor/64x64/legacy/pause.png'>hicolor/64x64/legacy/pause.png</file>
  <file alias='icons/hicolor/64x64/legacy/pivot-align-bottom.png'>hicolor/64x64/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/64x64/legacy/pivot-align-center.png'>hicolor/64x64/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/64x64/legacy/pivot-align-hcenter.png'>hicolor/64x64/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/64x64/legacy/pivot-align-left.png'>hicolor/64x64/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/64x64/legacy/pivot-align-right.png'>hicolor/64x64/legacy/pivot-align-right.png</file>
@@ -1709,6 +1719,7 @@
  <file alias='icons/hicolor/96x96/legacy/paint.png'>hicolor/96x96/legacy/paint.png</file>
  <file alias='icons/hicolor/96x96/legacy/pause.png'>hicolor/96x96/legacy/pause.png</file>
  <file alias='icons/hicolor/96x96/legacy/pivot-align-bottom.png'>hicolor/96x96/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/96x96/legacy/pivot-align-center.png'>hicolor/96x96/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/96x96/legacy/pivot-align-hcenter.png'>hicolor/96x96/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/96x96/legacy/pivot-align-left.png'>hicolor/96x96/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/96x96/legacy/pivot-align-right.png'>hicolor/96x96/legacy/pivot-align-right.png</file>
@@ -1869,6 +1880,7 @@
  <file alias='icons/hicolor/128x128/legacy/paint.png'>hicolor/128x128/legacy/paint.png</file>
  <file alias='icons/hicolor/128x128/legacy/pause.png'>hicolor/128x128/legacy/pause.png</file>
  <file alias='icons/hicolor/128x128/legacy/pivot-align-bottom.png'>hicolor/128x128/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/128x128/legacy/pivot-align-center.png'>hicolor/128x128/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/128x128/legacy/pivot-align-hcenter.png'>hicolor/128x128/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/128x128/legacy/pivot-align-left.png'>hicolor/128x128/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/128x128/legacy/pivot-align-right.png'>hicolor/128x128/legacy/pivot-align-right.png</file>
@@ -2029,6 +2041,7 @@
  <file alias='icons/hicolor/192x192/legacy/paint.png'>hicolor/192x192/legacy/paint.png</file>
  <file alias='icons/hicolor/192x192/legacy/pause.png'>hicolor/192x192/legacy/pause.png</file>
  <file alias='icons/hicolor/192x192/legacy/pivot-align-bottom.png'>hicolor/192x192/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/192x192/legacy/pivot-align-center.png'>hicolor/192x192/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/192x192/legacy/pivot-align-hcenter.png'>hicolor/192x192/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/192x192/legacy/pivot-align-left.png'>hicolor/192x192/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/192x192/legacy/pivot-align-right.png'>hicolor/192x192/legacy/pivot-align-right.png</file>
@@ -2189,6 +2202,7 @@
  <file alias='icons/hicolor/256x256/legacy/paint.png'>hicolor/256x256/legacy/paint.png</file>
  <file alias='icons/hicolor/256x256/legacy/pause.png'>hicolor/256x256/legacy/pause.png</file>
  <file alias='icons/hicolor/256x256/legacy/pivot-align-bottom.png'>hicolor/256x256/legacy/pivot-align-bottom.png</file>
+ <file alias='icons/hicolor/256x256/legacy/pivot-align-center.png'>hicolor/256x256/legacy/pivot-align-center.png</file>
  <file alias='icons/hicolor/256x256/legacy/pivot-align-hcenter.png'>hicolor/256x256/legacy/pivot-align-hcenter.png</file>
  <file alias='icons/hicolor/256x256/legacy/pivot-align-left.png'>hicolor/256x256/legacy/pivot-align-left.png</file>
  <file alias='icons/hicolor/256x256/legacy/pivot-align-right.png'>hicolor/256x256/legacy/pivot-align-right.png</file>
