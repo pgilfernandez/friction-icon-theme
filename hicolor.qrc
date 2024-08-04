@@ -66,6 +66,7 @@
  <file alias='icons/hicolor/16x16/legacy/childrenHidden.png'>hicolor/16x16/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/16x16/legacy/childrenVisible.png'>hicolor/16x16/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/16x16/legacy/close.png'>hicolor/16x16/legacy/close.png</file>
+ <file alias='icons/hicolor/16x16/legacy/cmd.png'>hicolor/16x16/legacy/cmd.png</file>
  <file alias='icons/hicolor/16x16/legacy/color.png'>hicolor/16x16/legacy/color.png</file>
  <file alias='icons/hicolor/16x16/legacy/cpu-active.png'>hicolor/16x16/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/16x16/legacy/cpu-gpu.png'>hicolor/16x16/legacy/cpu-gpu.png</file>
@@ -229,6 +230,7 @@
  <file alias='icons/hicolor/17x17/legacy/childrenHidden.png'>hicolor/17x17/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/17x17/legacy/childrenVisible.png'>hicolor/17x17/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/17x17/legacy/close.png'>hicolor/17x17/legacy/close.png</file>
+ <file alias='icons/hicolor/17x17/legacy/cmd.png'>hicolor/17x17/legacy/cmd.png</file>
  <file alias='icons/hicolor/17x17/legacy/color.png'>hicolor/17x17/legacy/color.png</file>
  <file alias='icons/hicolor/17x17/legacy/cpu-active.png'>hicolor/17x17/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/17x17/legacy/cpu-gpu.png'>hicolor/17x17/legacy/cpu-gpu.png</file>
@@ -392,6 +394,7 @@
  <file alias='icons/hicolor/20x20/legacy/childrenHidden.png'>hicolor/20x20/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/20x20/legacy/childrenVisible.png'>hicolor/20x20/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/20x20/legacy/close.png'>hicolor/20x20/legacy/close.png</file>
+ <file alias='icons/hicolor/20x20/legacy/cmd.png'>hicolor/20x20/legacy/cmd.png</file>
  <file alias='icons/hicolor/20x20/legacy/color.png'>hicolor/20x20/legacy/color.png</file>
  <file alias='icons/hicolor/20x20/legacy/cpu-active.png'>hicolor/20x20/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/20x20/legacy/cpu-gpu.png'>hicolor/20x20/legacy/cpu-gpu.png</file>
@@ -555,6 +558,7 @@
  <file alias='icons/hicolor/22x22/legacy/childrenHidden.png'>hicolor/22x22/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/22x22/legacy/childrenVisible.png'>hicolor/22x22/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/22x22/legacy/close.png'>hicolor/22x22/legacy/close.png</file>
+ <file alias='icons/hicolor/22x22/legacy/cmd.png'>hicolor/22x22/legacy/cmd.png</file>
  <file alias='icons/hicolor/22x22/legacy/color.png'>hicolor/22x22/legacy/color.png</file>
  <file alias='icons/hicolor/22x22/legacy/cpu-active.png'>hicolor/22x22/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/22x22/legacy/cpu-gpu.png'>hicolor/22x22/legacy/cpu-gpu.png</file>
@@ -718,6 +722,7 @@
  <file alias='icons/hicolor/24x24/legacy/childrenHidden.png'>hicolor/24x24/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/24x24/legacy/childrenVisible.png'>hicolor/24x24/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/24x24/legacy/close.png'>hicolor/24x24/legacy/close.png</file>
+ <file alias='icons/hicolor/24x24/legacy/cmd.png'>hicolor/24x24/legacy/cmd.png</file>
  <file alias='icons/hicolor/24x24/legacy/color.png'>hicolor/24x24/legacy/color.png</file>
  <file alias='icons/hicolor/24x24/legacy/cpu-active.png'>hicolor/24x24/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/24x24/legacy/cpu-gpu.png'>hicolor/24x24/legacy/cpu-gpu.png</file>
@@ -881,6 +886,7 @@
  <file alias='icons/hicolor/26x26/legacy/childrenHidden.png'>hicolor/26x26/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/26x26/legacy/childrenVisible.png'>hicolor/26x26/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/26x26/legacy/close.png'>hicolor/26x26/legacy/close.png</file>
+ <file alias='icons/hicolor/26x26/legacy/cmd.png'>hicolor/26x26/legacy/cmd.png</file>
  <file alias='icons/hicolor/26x26/legacy/color.png'>hicolor/26x26/legacy/color.png</file>
  <file alias='icons/hicolor/26x26/legacy/cpu-active.png'>hicolor/26x26/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/26x26/legacy/cpu-gpu.png'>hicolor/26x26/legacy/cpu-gpu.png</file>
@@ -1044,6 +1050,7 @@
  <file alias='icons/hicolor/28x28/legacy/childrenHidden.png'>hicolor/28x28/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/28x28/legacy/childrenVisible.png'>hicolor/28x28/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/28x28/legacy/close.png'>hicolor/28x28/legacy/close.png</file>
+ <file alias='icons/hicolor/28x28/legacy/cmd.png'>hicolor/28x28/legacy/cmd.png</file>
  <file alias='icons/hicolor/28x28/legacy/color.png'>hicolor/28x28/legacy/color.png</file>
  <file alias='icons/hicolor/28x28/legacy/cpu-active.png'>hicolor/28x28/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/28x28/legacy/cpu-gpu.png'>hicolor/28x28/legacy/cpu-gpu.png</file>
@@ -1207,6 +1214,7 @@
  <file alias='icons/hicolor/32x32/legacy/childrenHidden.png'>hicolor/32x32/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/32x32/legacy/childrenVisible.png'>hicolor/32x32/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/32x32/legacy/close.png'>hicolor/32x32/legacy/close.png</file>
+ <file alias='icons/hicolor/32x32/legacy/cmd.png'>hicolor/32x32/legacy/cmd.png</file>
  <file alias='icons/hicolor/32x32/legacy/color.png'>hicolor/32x32/legacy/color.png</file>
  <file alias='icons/hicolor/32x32/legacy/cpu-active.png'>hicolor/32x32/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/32x32/legacy/cpu-gpu.png'>hicolor/32x32/legacy/cpu-gpu.png</file>
@@ -1370,6 +1378,7 @@
  <file alias='icons/hicolor/48x48/legacy/childrenHidden.png'>hicolor/48x48/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/48x48/legacy/childrenVisible.png'>hicolor/48x48/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/48x48/legacy/close.png'>hicolor/48x48/legacy/close.png</file>
+ <file alias='icons/hicolor/48x48/legacy/cmd.png'>hicolor/48x48/legacy/cmd.png</file>
  <file alias='icons/hicolor/48x48/legacy/color.png'>hicolor/48x48/legacy/color.png</file>
  <file alias='icons/hicolor/48x48/legacy/cpu-active.png'>hicolor/48x48/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/48x48/legacy/cpu-gpu.png'>hicolor/48x48/legacy/cpu-gpu.png</file>
@@ -1533,6 +1542,7 @@
  <file alias='icons/hicolor/64x64/legacy/childrenHidden.png'>hicolor/64x64/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/64x64/legacy/childrenVisible.png'>hicolor/64x64/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/64x64/legacy/close.png'>hicolor/64x64/legacy/close.png</file>
+ <file alias='icons/hicolor/64x64/legacy/cmd.png'>hicolor/64x64/legacy/cmd.png</file>
  <file alias='icons/hicolor/64x64/legacy/color.png'>hicolor/64x64/legacy/color.png</file>
  <file alias='icons/hicolor/64x64/legacy/cpu-active.png'>hicolor/64x64/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/64x64/legacy/cpu-gpu.png'>hicolor/64x64/legacy/cpu-gpu.png</file>
@@ -1696,6 +1706,7 @@
  <file alias='icons/hicolor/96x96/legacy/childrenHidden.png'>hicolor/96x96/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/96x96/legacy/childrenVisible.png'>hicolor/96x96/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/96x96/legacy/close.png'>hicolor/96x96/legacy/close.png</file>
+ <file alias='icons/hicolor/96x96/legacy/cmd.png'>hicolor/96x96/legacy/cmd.png</file>
  <file alias='icons/hicolor/96x96/legacy/color.png'>hicolor/96x96/legacy/color.png</file>
  <file alias='icons/hicolor/96x96/legacy/cpu-active.png'>hicolor/96x96/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/96x96/legacy/cpu-gpu.png'>hicolor/96x96/legacy/cpu-gpu.png</file>
@@ -1859,6 +1870,7 @@
  <file alias='icons/hicolor/128x128/legacy/childrenHidden.png'>hicolor/128x128/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/128x128/legacy/childrenVisible.png'>hicolor/128x128/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/128x128/legacy/close.png'>hicolor/128x128/legacy/close.png</file>
+ <file alias='icons/hicolor/128x128/legacy/cmd.png'>hicolor/128x128/legacy/cmd.png</file>
  <file alias='icons/hicolor/128x128/legacy/color.png'>hicolor/128x128/legacy/color.png</file>
  <file alias='icons/hicolor/128x128/legacy/cpu-active.png'>hicolor/128x128/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/128x128/legacy/cpu-gpu.png'>hicolor/128x128/legacy/cpu-gpu.png</file>
@@ -2022,6 +2034,7 @@
  <file alias='icons/hicolor/192x192/legacy/childrenHidden.png'>hicolor/192x192/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/192x192/legacy/childrenVisible.png'>hicolor/192x192/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/192x192/legacy/close.png'>hicolor/192x192/legacy/close.png</file>
+ <file alias='icons/hicolor/192x192/legacy/cmd.png'>hicolor/192x192/legacy/cmd.png</file>
  <file alias='icons/hicolor/192x192/legacy/color.png'>hicolor/192x192/legacy/color.png</file>
  <file alias='icons/hicolor/192x192/legacy/cpu-active.png'>hicolor/192x192/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/192x192/legacy/cpu-gpu.png'>hicolor/192x192/legacy/cpu-gpu.png</file>
@@ -2185,6 +2198,7 @@
  <file alias='icons/hicolor/256x256/legacy/childrenHidden.png'>hicolor/256x256/legacy/childrenHidden.png</file>
  <file alias='icons/hicolor/256x256/legacy/childrenVisible.png'>hicolor/256x256/legacy/childrenVisible.png</file>
  <file alias='icons/hicolor/256x256/legacy/close.png'>hicolor/256x256/legacy/close.png</file>
+ <file alias='icons/hicolor/256x256/legacy/cmd.png'>hicolor/256x256/legacy/cmd.png</file>
  <file alias='icons/hicolor/256x256/legacy/color.png'>hicolor/256x256/legacy/color.png</file>
  <file alias='icons/hicolor/256x256/legacy/cpu-active.png'>hicolor/256x256/legacy/cpu-active.png</file>
  <file alias='icons/hicolor/256x256/legacy/cpu-gpu.png'>hicolor/256x256/legacy/cpu-gpu.png</file>
