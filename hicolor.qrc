@@ -41,6 +41,7 @@
  <file alias='icons/hicolor/16x16/friction-nodes/dissolvedNodesOnly.png'>hicolor/16x16/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/drawPathAutoChecked.png'>hicolor/16x16/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/drawPathAutoUnchecked.png'>hicolor/16x16/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/16x16/friction-nodes/easing.png'>hicolor/16x16/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/nodeConnect.png'>hicolor/16x16/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/nodeCorner.png'>hicolor/16x16/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/nodeDisconnect.png'>hicolor/16x16/friction-nodes/nodeDisconnect.png</file>
@@ -205,6 +206,7 @@
  <file alias='icons/hicolor/17x17/friction-nodes/dissolvedNodesOnly.png'>hicolor/17x17/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/drawPathAutoChecked.png'>hicolor/17x17/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/drawPathAutoUnchecked.png'>hicolor/17x17/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/17x17/friction-nodes/easing.png'>hicolor/17x17/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/nodeConnect.png'>hicolor/17x17/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/nodeCorner.png'>hicolor/17x17/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/nodeDisconnect.png'>hicolor/17x17/friction-nodes/nodeDisconnect.png</file>
@@ -369,6 +371,7 @@
  <file alias='icons/hicolor/20x20/friction-nodes/dissolvedNodesOnly.png'>hicolor/20x20/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/drawPathAutoChecked.png'>hicolor/20x20/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/drawPathAutoUnchecked.png'>hicolor/20x20/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/20x20/friction-nodes/easing.png'>hicolor/20x20/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/nodeConnect.png'>hicolor/20x20/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/nodeCorner.png'>hicolor/20x20/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/nodeDisconnect.png'>hicolor/20x20/friction-nodes/nodeDisconnect.png</file>
@@ -533,6 +536,7 @@
  <file alias='icons/hicolor/22x22/friction-nodes/dissolvedNodesOnly.png'>hicolor/22x22/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/drawPathAutoChecked.png'>hicolor/22x22/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/drawPathAutoUnchecked.png'>hicolor/22x22/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/22x22/friction-nodes/easing.png'>hicolor/22x22/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/nodeConnect.png'>hicolor/22x22/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/nodeCorner.png'>hicolor/22x22/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/nodeDisconnect.png'>hicolor/22x22/friction-nodes/nodeDisconnect.png</file>
@@ -697,6 +701,7 @@
  <file alias='icons/hicolor/24x24/friction-nodes/dissolvedNodesOnly.png'>hicolor/24x24/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/drawPathAutoChecked.png'>hicolor/24x24/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/drawPathAutoUnchecked.png'>hicolor/24x24/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/24x24/friction-nodes/easing.png'>hicolor/24x24/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/nodeConnect.png'>hicolor/24x24/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/nodeCorner.png'>hicolor/24x24/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/nodeDisconnect.png'>hicolor/24x24/friction-nodes/nodeDisconnect.png</file>
@@ -861,6 +866,7 @@
  <file alias='icons/hicolor/26x26/friction-nodes/dissolvedNodesOnly.png'>hicolor/26x26/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/drawPathAutoChecked.png'>hicolor/26x26/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/drawPathAutoUnchecked.png'>hicolor/26x26/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/26x26/friction-nodes/easing.png'>hicolor/26x26/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/nodeConnect.png'>hicolor/26x26/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/nodeCorner.png'>hicolor/26x26/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/nodeDisconnect.png'>hicolor/26x26/friction-nodes/nodeDisconnect.png</file>
@@ -1025,6 +1031,7 @@
  <file alias='icons/hicolor/28x28/friction-nodes/dissolvedNodesOnly.png'>hicolor/28x28/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/drawPathAutoChecked.png'>hicolor/28x28/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/drawPathAutoUnchecked.png'>hicolor/28x28/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/28x28/friction-nodes/easing.png'>hicolor/28x28/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/nodeConnect.png'>hicolor/28x28/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/nodeCorner.png'>hicolor/28x28/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/nodeDisconnect.png'>hicolor/28x28/friction-nodes/nodeDisconnect.png</file>
@@ -1189,6 +1196,7 @@
  <file alias='icons/hicolor/32x32/friction-nodes/dissolvedNodesOnly.png'>hicolor/32x32/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/drawPathAutoChecked.png'>hicolor/32x32/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/drawPathAutoUnchecked.png'>hicolor/32x32/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/32x32/friction-nodes/easing.png'>hicolor/32x32/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/nodeConnect.png'>hicolor/32x32/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/nodeCorner.png'>hicolor/32x32/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/nodeDisconnect.png'>hicolor/32x32/friction-nodes/nodeDisconnect.png</file>
@@ -1353,6 +1361,7 @@
  <file alias='icons/hicolor/48x48/friction-nodes/dissolvedNodesOnly.png'>hicolor/48x48/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/drawPathAutoChecked.png'>hicolor/48x48/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/drawPathAutoUnchecked.png'>hicolor/48x48/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/48x48/friction-nodes/easing.png'>hicolor/48x48/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/nodeConnect.png'>hicolor/48x48/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/nodeCorner.png'>hicolor/48x48/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/nodeDisconnect.png'>hicolor/48x48/friction-nodes/nodeDisconnect.png</file>
@@ -1517,6 +1526,7 @@
  <file alias='icons/hicolor/64x64/friction-nodes/dissolvedNodesOnly.png'>hicolor/64x64/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/drawPathAutoChecked.png'>hicolor/64x64/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/drawPathAutoUnchecked.png'>hicolor/64x64/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/64x64/friction-nodes/easing.png'>hicolor/64x64/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/nodeConnect.png'>hicolor/64x64/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/nodeCorner.png'>hicolor/64x64/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/nodeDisconnect.png'>hicolor/64x64/friction-nodes/nodeDisconnect.png</file>
@@ -1681,6 +1691,7 @@
  <file alias='icons/hicolor/96x96/friction-nodes/dissolvedNodesOnly.png'>hicolor/96x96/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/drawPathAutoChecked.png'>hicolor/96x96/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/drawPathAutoUnchecked.png'>hicolor/96x96/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/96x96/friction-nodes/easing.png'>hicolor/96x96/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/nodeConnect.png'>hicolor/96x96/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/nodeCorner.png'>hicolor/96x96/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/nodeDisconnect.png'>hicolor/96x96/friction-nodes/nodeDisconnect.png</file>
@@ -1845,6 +1856,7 @@
  <file alias='icons/hicolor/128x128/friction-nodes/dissolvedNodesOnly.png'>hicolor/128x128/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/drawPathAutoChecked.png'>hicolor/128x128/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/drawPathAutoUnchecked.png'>hicolor/128x128/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/128x128/friction-nodes/easing.png'>hicolor/128x128/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/nodeConnect.png'>hicolor/128x128/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/nodeCorner.png'>hicolor/128x128/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/nodeDisconnect.png'>hicolor/128x128/friction-nodes/nodeDisconnect.png</file>
@@ -2009,6 +2021,7 @@
  <file alias='icons/hicolor/192x192/friction-nodes/dissolvedNodesOnly.png'>hicolor/192x192/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/drawPathAutoChecked.png'>hicolor/192x192/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/drawPathAutoUnchecked.png'>hicolor/192x192/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/192x192/friction-nodes/easing.png'>hicolor/192x192/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/nodeConnect.png'>hicolor/192x192/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/nodeCorner.png'>hicolor/192x192/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/nodeDisconnect.png'>hicolor/192x192/friction-nodes/nodeDisconnect.png</file>
@@ -2173,6 +2186,7 @@
  <file alias='icons/hicolor/256x256/friction-nodes/dissolvedNodesOnly.png'>hicolor/256x256/friction-nodes/dissolvedNodesOnly.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/drawPathAutoChecked.png'>hicolor/256x256/friction-nodes/drawPathAutoChecked.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/drawPathAutoUnchecked.png'>hicolor/256x256/friction-nodes/drawPathAutoUnchecked.png</file>
+ <file alias='icons/hicolor/256x256/friction-nodes/easing.png'>hicolor/256x256/friction-nodes/easing.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/nodeConnect.png'>hicolor/256x256/friction-nodes/nodeConnect.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/nodeCorner.png'>hicolor/256x256/friction-nodes/nodeCorner.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/nodeDisconnect.png'>hicolor/256x256/friction-nodes/nodeDisconnect.png</file>
