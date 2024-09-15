@@ -89,6 +89,7 @@
  <file alias='icons/hicolor/16x16/legacy/fund.png'>hicolor/16x16/legacy/fund.png</file>
  <file alias='icons/hicolor/16x16/legacy/gpu-active.png'>hicolor/16x16/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/16x16/legacy/graph.png'>hicolor/16x16/legacy/graph.png</file>
+ <file alias='icons/hicolor/16x16/legacy/height.png'>hicolor/16x16/legacy/height.png</file>
  <file alias='icons/hicolor/16x16/legacy/hidden-child.png'>hicolor/16x16/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/16x16/legacy/hidden-child-small.png'>hicolor/16x16/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/16x16/legacy/hidden.png'>hicolor/16x16/legacy/hidden.png</file>
@@ -130,6 +131,7 @@
  <file alias='icons/hicolor/16x16/legacy/record.png'>hicolor/16x16/legacy/record.png</file>
  <file alias='icons/hicolor/16x16/legacy/render_animation.png'>hicolor/16x16/legacy/render_animation.png</file>
  <file alias='icons/hicolor/16x16/legacy/renderlayers.png'>hicolor/16x16/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/16x16/legacy/resolution.png'>hicolor/16x16/legacy/resolution.png</file>
  <file alias='icons/hicolor/16x16/legacy/rewind.png'>hicolor/16x16/legacy/rewind.png</file>
  <file alias='icons/hicolor/16x16/legacy/rightarrow.png'>hicolor/16x16/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/16x16/legacy/seq_preview.png'>hicolor/16x16/legacy/seq_preview.png</file>
@@ -144,6 +146,8 @@
  <file alias='icons/hicolor/16x16/legacy/visible-child.png'>hicolor/16x16/legacy/visible-child.png</file>
  <file alias='icons/hicolor/16x16/legacy/visible-child-small.png'>hicolor/16x16/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/16x16/legacy/visible.png'>hicolor/16x16/legacy/visible.png</file>
+ <file alias='icons/hicolor/16x16/legacy/width.png'>hicolor/16x16/legacy/width.png</file>
+ <file alias='icons/hicolor/16x16/legacy/workspace.png'>hicolor/16x16/legacy/workspace.png</file>
  <file alias='icons/hicolor/16x16/legacy/x.png'>hicolor/16x16/legacy/x.png</file>
  <file alias='icons/hicolor/16x16/legacy/zoom.png'>hicolor/16x16/legacy/zoom.png</file>
  <file alias='icons/hicolor/16x16/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/16x16/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -254,6 +258,7 @@
  <file alias='icons/hicolor/17x17/legacy/fund.png'>hicolor/17x17/legacy/fund.png</file>
  <file alias='icons/hicolor/17x17/legacy/gpu-active.png'>hicolor/17x17/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/17x17/legacy/graph.png'>hicolor/17x17/legacy/graph.png</file>
+ <file alias='icons/hicolor/17x17/legacy/height.png'>hicolor/17x17/legacy/height.png</file>
  <file alias='icons/hicolor/17x17/legacy/hidden-child.png'>hicolor/17x17/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/17x17/legacy/hidden-child-small.png'>hicolor/17x17/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/17x17/legacy/hidden.png'>hicolor/17x17/legacy/hidden.png</file>
@@ -295,6 +300,7 @@
  <file alias='icons/hicolor/17x17/legacy/record.png'>hicolor/17x17/legacy/record.png</file>
  <file alias='icons/hicolor/17x17/legacy/render_animation.png'>hicolor/17x17/legacy/render_animation.png</file>
  <file alias='icons/hicolor/17x17/legacy/renderlayers.png'>hicolor/17x17/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/17x17/legacy/resolution.png'>hicolor/17x17/legacy/resolution.png</file>
  <file alias='icons/hicolor/17x17/legacy/rewind.png'>hicolor/17x17/legacy/rewind.png</file>
  <file alias='icons/hicolor/17x17/legacy/rightarrow.png'>hicolor/17x17/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/17x17/legacy/seq_preview.png'>hicolor/17x17/legacy/seq_preview.png</file>
@@ -309,6 +315,8 @@
  <file alias='icons/hicolor/17x17/legacy/visible-child.png'>hicolor/17x17/legacy/visible-child.png</file>
  <file alias='icons/hicolor/17x17/legacy/visible-child-small.png'>hicolor/17x17/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/17x17/legacy/visible.png'>hicolor/17x17/legacy/visible.png</file>
+ <file alias='icons/hicolor/17x17/legacy/width.png'>hicolor/17x17/legacy/width.png</file>
+ <file alias='icons/hicolor/17x17/legacy/workspace.png'>hicolor/17x17/legacy/workspace.png</file>
  <file alias='icons/hicolor/17x17/legacy/x.png'>hicolor/17x17/legacy/x.png</file>
  <file alias='icons/hicolor/17x17/legacy/zoom.png'>hicolor/17x17/legacy/zoom.png</file>
  <file alias='icons/hicolor/17x17/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/17x17/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -419,6 +427,7 @@
  <file alias='icons/hicolor/20x20/legacy/fund.png'>hicolor/20x20/legacy/fund.png</file>
  <file alias='icons/hicolor/20x20/legacy/gpu-active.png'>hicolor/20x20/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/20x20/legacy/graph.png'>hicolor/20x20/legacy/graph.png</file>
+ <file alias='icons/hicolor/20x20/legacy/height.png'>hicolor/20x20/legacy/height.png</file>
  <file alias='icons/hicolor/20x20/legacy/hidden-child.png'>hicolor/20x20/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/20x20/legacy/hidden-child-small.png'>hicolor/20x20/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/20x20/legacy/hidden.png'>hicolor/20x20/legacy/hidden.png</file>
@@ -460,6 +469,7 @@
  <file alias='icons/hicolor/20x20/legacy/record.png'>hicolor/20x20/legacy/record.png</file>
  <file alias='icons/hicolor/20x20/legacy/render_animation.png'>hicolor/20x20/legacy/render_animation.png</file>
  <file alias='icons/hicolor/20x20/legacy/renderlayers.png'>hicolor/20x20/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/20x20/legacy/resolution.png'>hicolor/20x20/legacy/resolution.png</file>
  <file alias='icons/hicolor/20x20/legacy/rewind.png'>hicolor/20x20/legacy/rewind.png</file>
  <file alias='icons/hicolor/20x20/legacy/rightarrow.png'>hicolor/20x20/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/20x20/legacy/seq_preview.png'>hicolor/20x20/legacy/seq_preview.png</file>
@@ -474,6 +484,8 @@
  <file alias='icons/hicolor/20x20/legacy/visible-child.png'>hicolor/20x20/legacy/visible-child.png</file>
  <file alias='icons/hicolor/20x20/legacy/visible-child-small.png'>hicolor/20x20/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/20x20/legacy/visible.png'>hicolor/20x20/legacy/visible.png</file>
+ <file alias='icons/hicolor/20x20/legacy/width.png'>hicolor/20x20/legacy/width.png</file>
+ <file alias='icons/hicolor/20x20/legacy/workspace.png'>hicolor/20x20/legacy/workspace.png</file>
  <file alias='icons/hicolor/20x20/legacy/x.png'>hicolor/20x20/legacy/x.png</file>
  <file alias='icons/hicolor/20x20/legacy/zoom.png'>hicolor/20x20/legacy/zoom.png</file>
  <file alias='icons/hicolor/20x20/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/20x20/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -584,6 +596,7 @@
  <file alias='icons/hicolor/22x22/legacy/fund.png'>hicolor/22x22/legacy/fund.png</file>
  <file alias='icons/hicolor/22x22/legacy/gpu-active.png'>hicolor/22x22/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/22x22/legacy/graph.png'>hicolor/22x22/legacy/graph.png</file>
+ <file alias='icons/hicolor/22x22/legacy/height.png'>hicolor/22x22/legacy/height.png</file>
  <file alias='icons/hicolor/22x22/legacy/hidden-child.png'>hicolor/22x22/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/22x22/legacy/hidden-child-small.png'>hicolor/22x22/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/22x22/legacy/hidden.png'>hicolor/22x22/legacy/hidden.png</file>
@@ -625,6 +638,7 @@
  <file alias='icons/hicolor/22x22/legacy/record.png'>hicolor/22x22/legacy/record.png</file>
  <file alias='icons/hicolor/22x22/legacy/render_animation.png'>hicolor/22x22/legacy/render_animation.png</file>
  <file alias='icons/hicolor/22x22/legacy/renderlayers.png'>hicolor/22x22/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/22x22/legacy/resolution.png'>hicolor/22x22/legacy/resolution.png</file>
  <file alias='icons/hicolor/22x22/legacy/rewind.png'>hicolor/22x22/legacy/rewind.png</file>
  <file alias='icons/hicolor/22x22/legacy/rightarrow.png'>hicolor/22x22/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/22x22/legacy/seq_preview.png'>hicolor/22x22/legacy/seq_preview.png</file>
@@ -639,6 +653,8 @@
  <file alias='icons/hicolor/22x22/legacy/visible-child.png'>hicolor/22x22/legacy/visible-child.png</file>
  <file alias='icons/hicolor/22x22/legacy/visible-child-small.png'>hicolor/22x22/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/22x22/legacy/visible.png'>hicolor/22x22/legacy/visible.png</file>
+ <file alias='icons/hicolor/22x22/legacy/width.png'>hicolor/22x22/legacy/width.png</file>
+ <file alias='icons/hicolor/22x22/legacy/workspace.png'>hicolor/22x22/legacy/workspace.png</file>
  <file alias='icons/hicolor/22x22/legacy/x.png'>hicolor/22x22/legacy/x.png</file>
  <file alias='icons/hicolor/22x22/legacy/zoom.png'>hicolor/22x22/legacy/zoom.png</file>
  <file alias='icons/hicolor/22x22/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/22x22/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -749,6 +765,7 @@
  <file alias='icons/hicolor/24x24/legacy/fund.png'>hicolor/24x24/legacy/fund.png</file>
  <file alias='icons/hicolor/24x24/legacy/gpu-active.png'>hicolor/24x24/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/24x24/legacy/graph.png'>hicolor/24x24/legacy/graph.png</file>
+ <file alias='icons/hicolor/24x24/legacy/height.png'>hicolor/24x24/legacy/height.png</file>
  <file alias='icons/hicolor/24x24/legacy/hidden-child.png'>hicolor/24x24/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/24x24/legacy/hidden-child-small.png'>hicolor/24x24/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/24x24/legacy/hidden.png'>hicolor/24x24/legacy/hidden.png</file>
@@ -790,6 +807,7 @@
  <file alias='icons/hicolor/24x24/legacy/record.png'>hicolor/24x24/legacy/record.png</file>
  <file alias='icons/hicolor/24x24/legacy/render_animation.png'>hicolor/24x24/legacy/render_animation.png</file>
  <file alias='icons/hicolor/24x24/legacy/renderlayers.png'>hicolor/24x24/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/24x24/legacy/resolution.png'>hicolor/24x24/legacy/resolution.png</file>
  <file alias='icons/hicolor/24x24/legacy/rewind.png'>hicolor/24x24/legacy/rewind.png</file>
  <file alias='icons/hicolor/24x24/legacy/rightarrow.png'>hicolor/24x24/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/24x24/legacy/seq_preview.png'>hicolor/24x24/legacy/seq_preview.png</file>
@@ -804,6 +822,8 @@
  <file alias='icons/hicolor/24x24/legacy/visible-child.png'>hicolor/24x24/legacy/visible-child.png</file>
  <file alias='icons/hicolor/24x24/legacy/visible-child-small.png'>hicolor/24x24/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/24x24/legacy/visible.png'>hicolor/24x24/legacy/visible.png</file>
+ <file alias='icons/hicolor/24x24/legacy/width.png'>hicolor/24x24/legacy/width.png</file>
+ <file alias='icons/hicolor/24x24/legacy/workspace.png'>hicolor/24x24/legacy/workspace.png</file>
  <file alias='icons/hicolor/24x24/legacy/x.png'>hicolor/24x24/legacy/x.png</file>
  <file alias='icons/hicolor/24x24/legacy/zoom.png'>hicolor/24x24/legacy/zoom.png</file>
  <file alias='icons/hicolor/24x24/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/24x24/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -914,6 +934,7 @@
  <file alias='icons/hicolor/26x26/legacy/fund.png'>hicolor/26x26/legacy/fund.png</file>
  <file alias='icons/hicolor/26x26/legacy/gpu-active.png'>hicolor/26x26/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/26x26/legacy/graph.png'>hicolor/26x26/legacy/graph.png</file>
+ <file alias='icons/hicolor/26x26/legacy/height.png'>hicolor/26x26/legacy/height.png</file>
  <file alias='icons/hicolor/26x26/legacy/hidden-child.png'>hicolor/26x26/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/26x26/legacy/hidden-child-small.png'>hicolor/26x26/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/26x26/legacy/hidden.png'>hicolor/26x26/legacy/hidden.png</file>
@@ -955,6 +976,7 @@
  <file alias='icons/hicolor/26x26/legacy/record.png'>hicolor/26x26/legacy/record.png</file>
  <file alias='icons/hicolor/26x26/legacy/render_animation.png'>hicolor/26x26/legacy/render_animation.png</file>
  <file alias='icons/hicolor/26x26/legacy/renderlayers.png'>hicolor/26x26/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/26x26/legacy/resolution.png'>hicolor/26x26/legacy/resolution.png</file>
  <file alias='icons/hicolor/26x26/legacy/rewind.png'>hicolor/26x26/legacy/rewind.png</file>
  <file alias='icons/hicolor/26x26/legacy/rightarrow.png'>hicolor/26x26/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/26x26/legacy/seq_preview.png'>hicolor/26x26/legacy/seq_preview.png</file>
@@ -969,6 +991,8 @@
  <file alias='icons/hicolor/26x26/legacy/visible-child.png'>hicolor/26x26/legacy/visible-child.png</file>
  <file alias='icons/hicolor/26x26/legacy/visible-child-small.png'>hicolor/26x26/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/26x26/legacy/visible.png'>hicolor/26x26/legacy/visible.png</file>
+ <file alias='icons/hicolor/26x26/legacy/width.png'>hicolor/26x26/legacy/width.png</file>
+ <file alias='icons/hicolor/26x26/legacy/workspace.png'>hicolor/26x26/legacy/workspace.png</file>
  <file alias='icons/hicolor/26x26/legacy/x.png'>hicolor/26x26/legacy/x.png</file>
  <file alias='icons/hicolor/26x26/legacy/zoom.png'>hicolor/26x26/legacy/zoom.png</file>
  <file alias='icons/hicolor/26x26/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/26x26/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -1079,6 +1103,7 @@
  <file alias='icons/hicolor/28x28/legacy/fund.png'>hicolor/28x28/legacy/fund.png</file>
  <file alias='icons/hicolor/28x28/legacy/gpu-active.png'>hicolor/28x28/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/28x28/legacy/graph.png'>hicolor/28x28/legacy/graph.png</file>
+ <file alias='icons/hicolor/28x28/legacy/height.png'>hicolor/28x28/legacy/height.png</file>
  <file alias='icons/hicolor/28x28/legacy/hidden-child.png'>hicolor/28x28/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/28x28/legacy/hidden-child-small.png'>hicolor/28x28/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/28x28/legacy/hidden.png'>hicolor/28x28/legacy/hidden.png</file>
@@ -1120,6 +1145,7 @@
  <file alias='icons/hicolor/28x28/legacy/record.png'>hicolor/28x28/legacy/record.png</file>
  <file alias='icons/hicolor/28x28/legacy/render_animation.png'>hicolor/28x28/legacy/render_animation.png</file>
  <file alias='icons/hicolor/28x28/legacy/renderlayers.png'>hicolor/28x28/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/28x28/legacy/resolution.png'>hicolor/28x28/legacy/resolution.png</file>
  <file alias='icons/hicolor/28x28/legacy/rewind.png'>hicolor/28x28/legacy/rewind.png</file>
  <file alias='icons/hicolor/28x28/legacy/rightarrow.png'>hicolor/28x28/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/28x28/legacy/seq_preview.png'>hicolor/28x28/legacy/seq_preview.png</file>
@@ -1134,6 +1160,8 @@
  <file alias='icons/hicolor/28x28/legacy/visible-child.png'>hicolor/28x28/legacy/visible-child.png</file>
  <file alias='icons/hicolor/28x28/legacy/visible-child-small.png'>hicolor/28x28/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/28x28/legacy/visible.png'>hicolor/28x28/legacy/visible.png</file>
+ <file alias='icons/hicolor/28x28/legacy/width.png'>hicolor/28x28/legacy/width.png</file>
+ <file alias='icons/hicolor/28x28/legacy/workspace.png'>hicolor/28x28/legacy/workspace.png</file>
  <file alias='icons/hicolor/28x28/legacy/x.png'>hicolor/28x28/legacy/x.png</file>
  <file alias='icons/hicolor/28x28/legacy/zoom.png'>hicolor/28x28/legacy/zoom.png</file>
  <file alias='icons/hicolor/28x28/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/28x28/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -1244,6 +1272,7 @@
  <file alias='icons/hicolor/32x32/legacy/fund.png'>hicolor/32x32/legacy/fund.png</file>
  <file alias='icons/hicolor/32x32/legacy/gpu-active.png'>hicolor/32x32/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/32x32/legacy/graph.png'>hicolor/32x32/legacy/graph.png</file>
+ <file alias='icons/hicolor/32x32/legacy/height.png'>hicolor/32x32/legacy/height.png</file>
  <file alias='icons/hicolor/32x32/legacy/hidden-child.png'>hicolor/32x32/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/32x32/legacy/hidden-child-small.png'>hicolor/32x32/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/32x32/legacy/hidden.png'>hicolor/32x32/legacy/hidden.png</file>
@@ -1285,6 +1314,7 @@
  <file alias='icons/hicolor/32x32/legacy/record.png'>hicolor/32x32/legacy/record.png</file>
  <file alias='icons/hicolor/32x32/legacy/render_animation.png'>hicolor/32x32/legacy/render_animation.png</file>
  <file alias='icons/hicolor/32x32/legacy/renderlayers.png'>hicolor/32x32/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/32x32/legacy/resolution.png'>hicolor/32x32/legacy/resolution.png</file>
  <file alias='icons/hicolor/32x32/legacy/rewind.png'>hicolor/32x32/legacy/rewind.png</file>
  <file alias='icons/hicolor/32x32/legacy/rightarrow.png'>hicolor/32x32/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/32x32/legacy/seq_preview.png'>hicolor/32x32/legacy/seq_preview.png</file>
@@ -1299,6 +1329,8 @@
  <file alias='icons/hicolor/32x32/legacy/visible-child.png'>hicolor/32x32/legacy/visible-child.png</file>
  <file alias='icons/hicolor/32x32/legacy/visible-child-small.png'>hicolor/32x32/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/32x32/legacy/visible.png'>hicolor/32x32/legacy/visible.png</file>
+ <file alias='icons/hicolor/32x32/legacy/width.png'>hicolor/32x32/legacy/width.png</file>
+ <file alias='icons/hicolor/32x32/legacy/workspace.png'>hicolor/32x32/legacy/workspace.png</file>
  <file alias='icons/hicolor/32x32/legacy/x.png'>hicolor/32x32/legacy/x.png</file>
  <file alias='icons/hicolor/32x32/legacy/zoom.png'>hicolor/32x32/legacy/zoom.png</file>
  <file alias='icons/hicolor/32x32/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/32x32/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -1409,6 +1441,7 @@
  <file alias='icons/hicolor/48x48/legacy/fund.png'>hicolor/48x48/legacy/fund.png</file>
  <file alias='icons/hicolor/48x48/legacy/gpu-active.png'>hicolor/48x48/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/48x48/legacy/graph.png'>hicolor/48x48/legacy/graph.png</file>
+ <file alias='icons/hicolor/48x48/legacy/height.png'>hicolor/48x48/legacy/height.png</file>
  <file alias='icons/hicolor/48x48/legacy/hidden-child.png'>hicolor/48x48/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/48x48/legacy/hidden-child-small.png'>hicolor/48x48/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/48x48/legacy/hidden.png'>hicolor/48x48/legacy/hidden.png</file>
@@ -1450,6 +1483,7 @@
  <file alias='icons/hicolor/48x48/legacy/record.png'>hicolor/48x48/legacy/record.png</file>
  <file alias='icons/hicolor/48x48/legacy/render_animation.png'>hicolor/48x48/legacy/render_animation.png</file>
  <file alias='icons/hicolor/48x48/legacy/renderlayers.png'>hicolor/48x48/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/48x48/legacy/resolution.png'>hicolor/48x48/legacy/resolution.png</file>
  <file alias='icons/hicolor/48x48/legacy/rewind.png'>hicolor/48x48/legacy/rewind.png</file>
  <file alias='icons/hicolor/48x48/legacy/rightarrow.png'>hicolor/48x48/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/48x48/legacy/seq_preview.png'>hicolor/48x48/legacy/seq_preview.png</file>
@@ -1464,6 +1498,8 @@
  <file alias='icons/hicolor/48x48/legacy/visible-child.png'>hicolor/48x48/legacy/visible-child.png</file>
  <file alias='icons/hicolor/48x48/legacy/visible-child-small.png'>hicolor/48x48/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/48x48/legacy/visible.png'>hicolor/48x48/legacy/visible.png</file>
+ <file alias='icons/hicolor/48x48/legacy/width.png'>hicolor/48x48/legacy/width.png</file>
+ <file alias='icons/hicolor/48x48/legacy/workspace.png'>hicolor/48x48/legacy/workspace.png</file>
  <file alias='icons/hicolor/48x48/legacy/x.png'>hicolor/48x48/legacy/x.png</file>
  <file alias='icons/hicolor/48x48/legacy/zoom.png'>hicolor/48x48/legacy/zoom.png</file>
  <file alias='icons/hicolor/48x48/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/48x48/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -1574,6 +1610,7 @@
  <file alias='icons/hicolor/64x64/legacy/fund.png'>hicolor/64x64/legacy/fund.png</file>
  <file alias='icons/hicolor/64x64/legacy/gpu-active.png'>hicolor/64x64/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/64x64/legacy/graph.png'>hicolor/64x64/legacy/graph.png</file>
+ <file alias='icons/hicolor/64x64/legacy/height.png'>hicolor/64x64/legacy/height.png</file>
  <file alias='icons/hicolor/64x64/legacy/hidden-child.png'>hicolor/64x64/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/64x64/legacy/hidden-child-small.png'>hicolor/64x64/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/64x64/legacy/hidden.png'>hicolor/64x64/legacy/hidden.png</file>
@@ -1615,6 +1652,7 @@
  <file alias='icons/hicolor/64x64/legacy/record.png'>hicolor/64x64/legacy/record.png</file>
  <file alias='icons/hicolor/64x64/legacy/render_animation.png'>hicolor/64x64/legacy/render_animation.png</file>
  <file alias='icons/hicolor/64x64/legacy/renderlayers.png'>hicolor/64x64/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/64x64/legacy/resolution.png'>hicolor/64x64/legacy/resolution.png</file>
  <file alias='icons/hicolor/64x64/legacy/rewind.png'>hicolor/64x64/legacy/rewind.png</file>
  <file alias='icons/hicolor/64x64/legacy/rightarrow.png'>hicolor/64x64/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/64x64/legacy/seq_preview.png'>hicolor/64x64/legacy/seq_preview.png</file>
@@ -1629,6 +1667,8 @@
  <file alias='icons/hicolor/64x64/legacy/visible-child.png'>hicolor/64x64/legacy/visible-child.png</file>
  <file alias='icons/hicolor/64x64/legacy/visible-child-small.png'>hicolor/64x64/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/64x64/legacy/visible.png'>hicolor/64x64/legacy/visible.png</file>
+ <file alias='icons/hicolor/64x64/legacy/width.png'>hicolor/64x64/legacy/width.png</file>
+ <file alias='icons/hicolor/64x64/legacy/workspace.png'>hicolor/64x64/legacy/workspace.png</file>
  <file alias='icons/hicolor/64x64/legacy/x.png'>hicolor/64x64/legacy/x.png</file>
  <file alias='icons/hicolor/64x64/legacy/zoom.png'>hicolor/64x64/legacy/zoom.png</file>
  <file alias='icons/hicolor/64x64/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/64x64/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -1739,6 +1779,7 @@
  <file alias='icons/hicolor/96x96/legacy/fund.png'>hicolor/96x96/legacy/fund.png</file>
  <file alias='icons/hicolor/96x96/legacy/gpu-active.png'>hicolor/96x96/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/96x96/legacy/graph.png'>hicolor/96x96/legacy/graph.png</file>
+ <file alias='icons/hicolor/96x96/legacy/height.png'>hicolor/96x96/legacy/height.png</file>
  <file alias='icons/hicolor/96x96/legacy/hidden-child.png'>hicolor/96x96/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/96x96/legacy/hidden-child-small.png'>hicolor/96x96/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/96x96/legacy/hidden.png'>hicolor/96x96/legacy/hidden.png</file>
@@ -1780,6 +1821,7 @@
  <file alias='icons/hicolor/96x96/legacy/record.png'>hicolor/96x96/legacy/record.png</file>
  <file alias='icons/hicolor/96x96/legacy/render_animation.png'>hicolor/96x96/legacy/render_animation.png</file>
  <file alias='icons/hicolor/96x96/legacy/renderlayers.png'>hicolor/96x96/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/96x96/legacy/resolution.png'>hicolor/96x96/legacy/resolution.png</file>
  <file alias='icons/hicolor/96x96/legacy/rewind.png'>hicolor/96x96/legacy/rewind.png</file>
  <file alias='icons/hicolor/96x96/legacy/rightarrow.png'>hicolor/96x96/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/96x96/legacy/seq_preview.png'>hicolor/96x96/legacy/seq_preview.png</file>
@@ -1794,6 +1836,8 @@
  <file alias='icons/hicolor/96x96/legacy/visible-child.png'>hicolor/96x96/legacy/visible-child.png</file>
  <file alias='icons/hicolor/96x96/legacy/visible-child-small.png'>hicolor/96x96/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/96x96/legacy/visible.png'>hicolor/96x96/legacy/visible.png</file>
+ <file alias='icons/hicolor/96x96/legacy/width.png'>hicolor/96x96/legacy/width.png</file>
+ <file alias='icons/hicolor/96x96/legacy/workspace.png'>hicolor/96x96/legacy/workspace.png</file>
  <file alias='icons/hicolor/96x96/legacy/x.png'>hicolor/96x96/legacy/x.png</file>
  <file alias='icons/hicolor/96x96/legacy/zoom.png'>hicolor/96x96/legacy/zoom.png</file>
  <file alias='icons/hicolor/96x96/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/96x96/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -1904,6 +1948,7 @@
  <file alias='icons/hicolor/128x128/legacy/fund.png'>hicolor/128x128/legacy/fund.png</file>
  <file alias='icons/hicolor/128x128/legacy/gpu-active.png'>hicolor/128x128/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/128x128/legacy/graph.png'>hicolor/128x128/legacy/graph.png</file>
+ <file alias='icons/hicolor/128x128/legacy/height.png'>hicolor/128x128/legacy/height.png</file>
  <file alias='icons/hicolor/128x128/legacy/hidden-child.png'>hicolor/128x128/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/128x128/legacy/hidden-child-small.png'>hicolor/128x128/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/128x128/legacy/hidden.png'>hicolor/128x128/legacy/hidden.png</file>
@@ -1945,6 +1990,7 @@
  <file alias='icons/hicolor/128x128/legacy/record.png'>hicolor/128x128/legacy/record.png</file>
  <file alias='icons/hicolor/128x128/legacy/render_animation.png'>hicolor/128x128/legacy/render_animation.png</file>
  <file alias='icons/hicolor/128x128/legacy/renderlayers.png'>hicolor/128x128/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/128x128/legacy/resolution.png'>hicolor/128x128/legacy/resolution.png</file>
  <file alias='icons/hicolor/128x128/legacy/rewind.png'>hicolor/128x128/legacy/rewind.png</file>
  <file alias='icons/hicolor/128x128/legacy/rightarrow.png'>hicolor/128x128/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/128x128/legacy/seq_preview.png'>hicolor/128x128/legacy/seq_preview.png</file>
@@ -1959,6 +2005,8 @@
  <file alias='icons/hicolor/128x128/legacy/visible-child.png'>hicolor/128x128/legacy/visible-child.png</file>
  <file alias='icons/hicolor/128x128/legacy/visible-child-small.png'>hicolor/128x128/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/128x128/legacy/visible.png'>hicolor/128x128/legacy/visible.png</file>
+ <file alias='icons/hicolor/128x128/legacy/width.png'>hicolor/128x128/legacy/width.png</file>
+ <file alias='icons/hicolor/128x128/legacy/workspace.png'>hicolor/128x128/legacy/workspace.png</file>
  <file alias='icons/hicolor/128x128/legacy/x.png'>hicolor/128x128/legacy/x.png</file>
  <file alias='icons/hicolor/128x128/legacy/zoom.png'>hicolor/128x128/legacy/zoom.png</file>
  <file alias='icons/hicolor/128x128/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/128x128/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -2069,6 +2117,7 @@
  <file alias='icons/hicolor/192x192/legacy/fund.png'>hicolor/192x192/legacy/fund.png</file>
  <file alias='icons/hicolor/192x192/legacy/gpu-active.png'>hicolor/192x192/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/192x192/legacy/graph.png'>hicolor/192x192/legacy/graph.png</file>
+ <file alias='icons/hicolor/192x192/legacy/height.png'>hicolor/192x192/legacy/height.png</file>
  <file alias='icons/hicolor/192x192/legacy/hidden-child.png'>hicolor/192x192/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/192x192/legacy/hidden-child-small.png'>hicolor/192x192/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/192x192/legacy/hidden.png'>hicolor/192x192/legacy/hidden.png</file>
@@ -2110,6 +2159,7 @@
  <file alias='icons/hicolor/192x192/legacy/record.png'>hicolor/192x192/legacy/record.png</file>
  <file alias='icons/hicolor/192x192/legacy/render_animation.png'>hicolor/192x192/legacy/render_animation.png</file>
  <file alias='icons/hicolor/192x192/legacy/renderlayers.png'>hicolor/192x192/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/192x192/legacy/resolution.png'>hicolor/192x192/legacy/resolution.png</file>
  <file alias='icons/hicolor/192x192/legacy/rewind.png'>hicolor/192x192/legacy/rewind.png</file>
  <file alias='icons/hicolor/192x192/legacy/rightarrow.png'>hicolor/192x192/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/192x192/legacy/seq_preview.png'>hicolor/192x192/legacy/seq_preview.png</file>
@@ -2124,6 +2174,8 @@
  <file alias='icons/hicolor/192x192/legacy/visible-child.png'>hicolor/192x192/legacy/visible-child.png</file>
  <file alias='icons/hicolor/192x192/legacy/visible-child-small.png'>hicolor/192x192/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/192x192/legacy/visible.png'>hicolor/192x192/legacy/visible.png</file>
+ <file alias='icons/hicolor/192x192/legacy/width.png'>hicolor/192x192/legacy/width.png</file>
+ <file alias='icons/hicolor/192x192/legacy/workspace.png'>hicolor/192x192/legacy/workspace.png</file>
  <file alias='icons/hicolor/192x192/legacy/x.png'>hicolor/192x192/legacy/x.png</file>
  <file alias='icons/hicolor/192x192/legacy/zoom.png'>hicolor/192x192/legacy/zoom.png</file>
  <file alias='icons/hicolor/192x192/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/192x192/mimetypes/application-x-graphics.friction.Friction.png</file>
@@ -2234,6 +2286,7 @@
  <file alias='icons/hicolor/256x256/legacy/fund.png'>hicolor/256x256/legacy/fund.png</file>
  <file alias='icons/hicolor/256x256/legacy/gpu-active.png'>hicolor/256x256/legacy/gpu-active.png</file>
  <file alias='icons/hicolor/256x256/legacy/graph.png'>hicolor/256x256/legacy/graph.png</file>
+ <file alias='icons/hicolor/256x256/legacy/height.png'>hicolor/256x256/legacy/height.png</file>
  <file alias='icons/hicolor/256x256/legacy/hidden-child.png'>hicolor/256x256/legacy/hidden-child.png</file>
  <file alias='icons/hicolor/256x256/legacy/hidden-child-small.png'>hicolor/256x256/legacy/hidden-child-small.png</file>
  <file alias='icons/hicolor/256x256/legacy/hidden.png'>hicolor/256x256/legacy/hidden.png</file>
@@ -2275,6 +2328,7 @@
  <file alias='icons/hicolor/256x256/legacy/record.png'>hicolor/256x256/legacy/record.png</file>
  <file alias='icons/hicolor/256x256/legacy/render_animation.png'>hicolor/256x256/legacy/render_animation.png</file>
  <file alias='icons/hicolor/256x256/legacy/renderlayers.png'>hicolor/256x256/legacy/renderlayers.png</file>
+ <file alias='icons/hicolor/256x256/legacy/resolution.png'>hicolor/256x256/legacy/resolution.png</file>
  <file alias='icons/hicolor/256x256/legacy/rewind.png'>hicolor/256x256/legacy/rewind.png</file>
  <file alias='icons/hicolor/256x256/legacy/rightarrow.png'>hicolor/256x256/legacy/rightarrow.png</file>
  <file alias='icons/hicolor/256x256/legacy/seq_preview.png'>hicolor/256x256/legacy/seq_preview.png</file>
@@ -2289,6 +2343,8 @@
  <file alias='icons/hicolor/256x256/legacy/visible-child.png'>hicolor/256x256/legacy/visible-child.png</file>
  <file alias='icons/hicolor/256x256/legacy/visible-child-small.png'>hicolor/256x256/legacy/visible-child-small.png</file>
  <file alias='icons/hicolor/256x256/legacy/visible.png'>hicolor/256x256/legacy/visible.png</file>
+ <file alias='icons/hicolor/256x256/legacy/width.png'>hicolor/256x256/legacy/width.png</file>
+ <file alias='icons/hicolor/256x256/legacy/workspace.png'>hicolor/256x256/legacy/workspace.png</file>
  <file alias='icons/hicolor/256x256/legacy/x.png'>hicolor/256x256/legacy/x.png</file>
  <file alias='icons/hicolor/256x256/legacy/zoom.png'>hicolor/256x256/legacy/zoom.png</file>
  <file alias='icons/hicolor/256x256/mimetypes/application-x-graphics.friction.Friction.png'>hicolor/256x256/mimetypes/application-x-graphics.friction.Friction.png</file>
