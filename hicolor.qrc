@@ -2,6 +2,7 @@
  <qresource prefix="/"> 
  <file alias='icons/hicolor/index.theme'>hicolor/index.theme</file> 
  <file alias='icons/hicolor/16x16/actions/copy.png'>hicolor/16x16/actions/copy.png</file>
+ <file alias='icons/hicolor/16x16/actions/cut.png'>hicolor/16x16/actions/cut.png</file>
  <file alias='icons/hicolor/16x16/actions/dialog-cancel.png'>hicolor/16x16/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/16x16/actions/dialog-ok-apply.png'>hicolor/16x16/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/16x16/actions/dialog-ok.png'>hicolor/16x16/actions/dialog-ok.png</file>
@@ -183,6 +184,7 @@
  <file alias='icons/hicolor/16x16/status/image-missing.png'>hicolor/16x16/status/image-missing.png</file>
  <file alias='icons/hicolor/16x16/status/media-playlist-repeat.png'>hicolor/16x16/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/17x17/actions/copy.png'>hicolor/17x17/actions/copy.png</file>
+ <file alias='icons/hicolor/17x17/actions/cut.png'>hicolor/17x17/actions/cut.png</file>
  <file alias='icons/hicolor/17x17/actions/dialog-cancel.png'>hicolor/17x17/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/17x17/actions/dialog-ok-apply.png'>hicolor/17x17/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/17x17/actions/dialog-ok.png'>hicolor/17x17/actions/dialog-ok.png</file>
@@ -364,6 +366,7 @@
  <file alias='icons/hicolor/17x17/status/image-missing.png'>hicolor/17x17/status/image-missing.png</file>
  <file alias='icons/hicolor/17x17/status/media-playlist-repeat.png'>hicolor/17x17/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/20x20/actions/copy.png'>hicolor/20x20/actions/copy.png</file>
+ <file alias='icons/hicolor/20x20/actions/cut.png'>hicolor/20x20/actions/cut.png</file>
  <file alias='icons/hicolor/20x20/actions/dialog-cancel.png'>hicolor/20x20/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/20x20/actions/dialog-ok-apply.png'>hicolor/20x20/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/20x20/actions/dialog-ok.png'>hicolor/20x20/actions/dialog-ok.png</file>
@@ -545,6 +548,7 @@
  <file alias='icons/hicolor/20x20/status/image-missing.png'>hicolor/20x20/status/image-missing.png</file>
  <file alias='icons/hicolor/20x20/status/media-playlist-repeat.png'>hicolor/20x20/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/22x22/actions/copy.png'>hicolor/22x22/actions/copy.png</file>
+ <file alias='icons/hicolor/22x22/actions/cut.png'>hicolor/22x22/actions/cut.png</file>
  <file alias='icons/hicolor/22x22/actions/dialog-cancel.png'>hicolor/22x22/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/22x22/actions/dialog-ok-apply.png'>hicolor/22x22/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/22x22/actions/dialog-ok.png'>hicolor/22x22/actions/dialog-ok.png</file>
@@ -726,6 +730,7 @@
  <file alias='icons/hicolor/22x22/status/image-missing.png'>hicolor/22x22/status/image-missing.png</file>
  <file alias='icons/hicolor/22x22/status/media-playlist-repeat.png'>hicolor/22x22/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/24x24/actions/copy.png'>hicolor/24x24/actions/copy.png</file>
+ <file alias='icons/hicolor/24x24/actions/cut.png'>hicolor/24x24/actions/cut.png</file>
  <file alias='icons/hicolor/24x24/actions/dialog-cancel.png'>hicolor/24x24/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/24x24/actions/dialog-ok-apply.png'>hicolor/24x24/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/24x24/actions/dialog-ok.png'>hicolor/24x24/actions/dialog-ok.png</file>
@@ -907,6 +912,7 @@
  <file alias='icons/hicolor/24x24/status/image-missing.png'>hicolor/24x24/status/image-missing.png</file>
  <file alias='icons/hicolor/24x24/status/media-playlist-repeat.png'>hicolor/24x24/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/26x26/actions/copy.png'>hicolor/26x26/actions/copy.png</file>
+ <file alias='icons/hicolor/26x26/actions/cut.png'>hicolor/26x26/actions/cut.png</file>
  <file alias='icons/hicolor/26x26/actions/dialog-cancel.png'>hicolor/26x26/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/26x26/actions/dialog-ok-apply.png'>hicolor/26x26/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/26x26/actions/dialog-ok.png'>hicolor/26x26/actions/dialog-ok.png</file>
@@ -1088,6 +1094,7 @@
  <file alias='icons/hicolor/26x26/status/image-missing.png'>hicolor/26x26/status/image-missing.png</file>
  <file alias='icons/hicolor/26x26/status/media-playlist-repeat.png'>hicolor/26x26/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/28x28/actions/copy.png'>hicolor/28x28/actions/copy.png</file>
+ <file alias='icons/hicolor/28x28/actions/cut.png'>hicolor/28x28/actions/cut.png</file>
  <file alias='icons/hicolor/28x28/actions/dialog-cancel.png'>hicolor/28x28/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/28x28/actions/dialog-ok-apply.png'>hicolor/28x28/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/28x28/actions/dialog-ok.png'>hicolor/28x28/actions/dialog-ok.png</file>
@@ -1269,6 +1276,7 @@
  <file alias='icons/hicolor/28x28/status/image-missing.png'>hicolor/28x28/status/image-missing.png</file>
  <file alias='icons/hicolor/28x28/status/media-playlist-repeat.png'>hicolor/28x28/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/32x32/actions/copy.png'>hicolor/32x32/actions/copy.png</file>
+ <file alias='icons/hicolor/32x32/actions/cut.png'>hicolor/32x32/actions/cut.png</file>
  <file alias='icons/hicolor/32x32/actions/dialog-cancel.png'>hicolor/32x32/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/32x32/actions/dialog-ok-apply.png'>hicolor/32x32/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/32x32/actions/dialog-ok.png'>hicolor/32x32/actions/dialog-ok.png</file>
@@ -1450,6 +1458,7 @@
  <file alias='icons/hicolor/32x32/status/image-missing.png'>hicolor/32x32/status/image-missing.png</file>
  <file alias='icons/hicolor/32x32/status/media-playlist-repeat.png'>hicolor/32x32/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/48x48/actions/copy.png'>hicolor/48x48/actions/copy.png</file>
+ <file alias='icons/hicolor/48x48/actions/cut.png'>hicolor/48x48/actions/cut.png</file>
  <file alias='icons/hicolor/48x48/actions/dialog-cancel.png'>hicolor/48x48/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/48x48/actions/dialog-ok-apply.png'>hicolor/48x48/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/48x48/actions/dialog-ok.png'>hicolor/48x48/actions/dialog-ok.png</file>
@@ -1631,6 +1640,7 @@
  <file alias='icons/hicolor/48x48/status/image-missing.png'>hicolor/48x48/status/image-missing.png</file>
  <file alias='icons/hicolor/48x48/status/media-playlist-repeat.png'>hicolor/48x48/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/64x64/actions/copy.png'>hicolor/64x64/actions/copy.png</file>
+ <file alias='icons/hicolor/64x64/actions/cut.png'>hicolor/64x64/actions/cut.png</file>
  <file alias='icons/hicolor/64x64/actions/dialog-cancel.png'>hicolor/64x64/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/64x64/actions/dialog-ok-apply.png'>hicolor/64x64/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/64x64/actions/dialog-ok.png'>hicolor/64x64/actions/dialog-ok.png</file>
@@ -1812,6 +1822,7 @@
  <file alias='icons/hicolor/64x64/status/image-missing.png'>hicolor/64x64/status/image-missing.png</file>
  <file alias='icons/hicolor/64x64/status/media-playlist-repeat.png'>hicolor/64x64/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/96x96/actions/copy.png'>hicolor/96x96/actions/copy.png</file>
+ <file alias='icons/hicolor/96x96/actions/cut.png'>hicolor/96x96/actions/cut.png</file>
  <file alias='icons/hicolor/96x96/actions/dialog-cancel.png'>hicolor/96x96/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/96x96/actions/dialog-ok-apply.png'>hicolor/96x96/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/96x96/actions/dialog-ok.png'>hicolor/96x96/actions/dialog-ok.png</file>
@@ -1993,6 +2004,7 @@
  <file alias='icons/hicolor/96x96/status/image-missing.png'>hicolor/96x96/status/image-missing.png</file>
  <file alias='icons/hicolor/96x96/status/media-playlist-repeat.png'>hicolor/96x96/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/128x128/actions/copy.png'>hicolor/128x128/actions/copy.png</file>
+ <file alias='icons/hicolor/128x128/actions/cut.png'>hicolor/128x128/actions/cut.png</file>
  <file alias='icons/hicolor/128x128/actions/dialog-cancel.png'>hicolor/128x128/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/128x128/actions/dialog-ok-apply.png'>hicolor/128x128/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/128x128/actions/dialog-ok.png'>hicolor/128x128/actions/dialog-ok.png</file>
@@ -2174,6 +2186,7 @@
  <file alias='icons/hicolor/128x128/status/image-missing.png'>hicolor/128x128/status/image-missing.png</file>
  <file alias='icons/hicolor/128x128/status/media-playlist-repeat.png'>hicolor/128x128/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/192x192/actions/copy.png'>hicolor/192x192/actions/copy.png</file>
+ <file alias='icons/hicolor/192x192/actions/cut.png'>hicolor/192x192/actions/cut.png</file>
  <file alias='icons/hicolor/192x192/actions/dialog-cancel.png'>hicolor/192x192/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/192x192/actions/dialog-ok-apply.png'>hicolor/192x192/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/192x192/actions/dialog-ok.png'>hicolor/192x192/actions/dialog-ok.png</file>
@@ -2355,6 +2368,7 @@
  <file alias='icons/hicolor/192x192/status/image-missing.png'>hicolor/192x192/status/image-missing.png</file>
  <file alias='icons/hicolor/192x192/status/media-playlist-repeat.png'>hicolor/192x192/status/media-playlist-repeat.png</file>
  <file alias='icons/hicolor/256x256/actions/copy.png'>hicolor/256x256/actions/copy.png</file>
+ <file alias='icons/hicolor/256x256/actions/cut.png'>hicolor/256x256/actions/cut.png</file>
  <file alias='icons/hicolor/256x256/actions/dialog-cancel.png'>hicolor/256x256/actions/dialog-cancel.png</file>
  <file alias='icons/hicolor/256x256/actions/dialog-ok-apply.png'>hicolor/256x256/actions/dialog-ok-apply.png</file>
  <file alias='icons/hicolor/256x256/actions/dialog-ok.png'>hicolor/256x256/actions/dialog-ok.png</file>
