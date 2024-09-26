@@ -19,6 +19,8 @@
  <file alias='icons/hicolor/16x16/actions/group.png'>hicolor/16x16/actions/group.png</file>
  <file alias='icons/hicolor/16x16/actions/paste.png'>hicolor/16x16/actions/paste.png</file>
  <file alias='icons/hicolor/16x16/actions/plugin.png'>hicolor/16x16/actions/plugin.png</file>
+ <file alias='icons/hicolor/16x16/actions/raise-bottom.png'>hicolor/16x16/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/16x16/actions/raise-top.png'>hicolor/16x16/actions/raise-top.png</file>
  <file alias='icons/hicolor/16x16/actions/select.png'>hicolor/16x16/actions/select.png</file>
  <file alias='icons/hicolor/16x16/actions/view-list-details.png'>hicolor/16x16/actions/view-list-details.png</file>
  <file alias='icons/hicolor/16x16/actions/view-list-icons.png'>hicolor/16x16/actions/view-list-icons.png</file>
@@ -201,6 +203,8 @@
  <file alias='icons/hicolor/17x17/actions/group.png'>hicolor/17x17/actions/group.png</file>
  <file alias='icons/hicolor/17x17/actions/paste.png'>hicolor/17x17/actions/paste.png</file>
  <file alias='icons/hicolor/17x17/actions/plugin.png'>hicolor/17x17/actions/plugin.png</file>
+ <file alias='icons/hicolor/17x17/actions/raise-bottom.png'>hicolor/17x17/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/17x17/actions/raise-top.png'>hicolor/17x17/actions/raise-top.png</file>
  <file alias='icons/hicolor/17x17/actions/select.png'>hicolor/17x17/actions/select.png</file>
  <file alias='icons/hicolor/17x17/actions/view-list-details.png'>hicolor/17x17/actions/view-list-details.png</file>
  <file alias='icons/hicolor/17x17/actions/view-list-icons.png'>hicolor/17x17/actions/view-list-icons.png</file>
@@ -383,6 +387,8 @@
  <file alias='icons/hicolor/20x20/actions/group.png'>hicolor/20x20/actions/group.png</file>
  <file alias='icons/hicolor/20x20/actions/paste.png'>hicolor/20x20/actions/paste.png</file>
  <file alias='icons/hicolor/20x20/actions/plugin.png'>hicolor/20x20/actions/plugin.png</file>
+ <file alias='icons/hicolor/20x20/actions/raise-bottom.png'>hicolor/20x20/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/20x20/actions/raise-top.png'>hicolor/20x20/actions/raise-top.png</file>
  <file alias='icons/hicolor/20x20/actions/select.png'>hicolor/20x20/actions/select.png</file>
  <file alias='icons/hicolor/20x20/actions/view-list-details.png'>hicolor/20x20/actions/view-list-details.png</file>
  <file alias='icons/hicolor/20x20/actions/view-list-icons.png'>hicolor/20x20/actions/view-list-icons.png</file>
@@ -565,6 +571,8 @@
  <file alias='icons/hicolor/22x22/actions/group.png'>hicolor/22x22/actions/group.png</file>
  <file alias='icons/hicolor/22x22/actions/paste.png'>hicolor/22x22/actions/paste.png</file>
  <file alias='icons/hicolor/22x22/actions/plugin.png'>hicolor/22x22/actions/plugin.png</file>
+ <file alias='icons/hicolor/22x22/actions/raise-bottom.png'>hicolor/22x22/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/22x22/actions/raise-top.png'>hicolor/22x22/actions/raise-top.png</file>
  <file alias='icons/hicolor/22x22/actions/select.png'>hicolor/22x22/actions/select.png</file>
  <file alias='icons/hicolor/22x22/actions/view-list-details.png'>hicolor/22x22/actions/view-list-details.png</file>
  <file alias='icons/hicolor/22x22/actions/view-list-icons.png'>hicolor/22x22/actions/view-list-icons.png</file>
@@ -747,6 +755,8 @@
  <file alias='icons/hicolor/24x24/actions/group.png'>hicolor/24x24/actions/group.png</file>
  <file alias='icons/hicolor/24x24/actions/paste.png'>hicolor/24x24/actions/paste.png</file>
  <file alias='icons/hicolor/24x24/actions/plugin.png'>hicolor/24x24/actions/plugin.png</file>
+ <file alias='icons/hicolor/24x24/actions/raise-bottom.png'>hicolor/24x24/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/24x24/actions/raise-top.png'>hicolor/24x24/actions/raise-top.png</file>
  <file alias='icons/hicolor/24x24/actions/select.png'>hicolor/24x24/actions/select.png</file>
  <file alias='icons/hicolor/24x24/actions/view-list-details.png'>hicolor/24x24/actions/view-list-details.png</file>
  <file alias='icons/hicolor/24x24/actions/view-list-icons.png'>hicolor/24x24/actions/view-list-icons.png</file>
@@ -929,6 +939,8 @@
  <file alias='icons/hicolor/26x26/actions/group.png'>hicolor/26x26/actions/group.png</file>
  <file alias='icons/hicolor/26x26/actions/paste.png'>hicolor/26x26/actions/paste.png</file>
  <file alias='icons/hicolor/26x26/actions/plugin.png'>hicolor/26x26/actions/plugin.png</file>
+ <file alias='icons/hicolor/26x26/actions/raise-bottom.png'>hicolor/26x26/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/26x26/actions/raise-top.png'>hicolor/26x26/actions/raise-top.png</file>
  <file alias='icons/hicolor/26x26/actions/select.png'>hicolor/26x26/actions/select.png</file>
  <file alias='icons/hicolor/26x26/actions/view-list-details.png'>hicolor/26x26/actions/view-list-details.png</file>
  <file alias='icons/hicolor/26x26/actions/view-list-icons.png'>hicolor/26x26/actions/view-list-icons.png</file>
@@ -1111,6 +1123,8 @@
  <file alias='icons/hicolor/28x28/actions/group.png'>hicolor/28x28/actions/group.png</file>
  <file alias='icons/hicolor/28x28/actions/paste.png'>hicolor/28x28/actions/paste.png</file>
  <file alias='icons/hicolor/28x28/actions/plugin.png'>hicolor/28x28/actions/plugin.png</file>
+ <file alias='icons/hicolor/28x28/actions/raise-bottom.png'>hicolor/28x28/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/28x28/actions/raise-top.png'>hicolor/28x28/actions/raise-top.png</file>
  <file alias='icons/hicolor/28x28/actions/select.png'>hicolor/28x28/actions/select.png</file>
  <file alias='icons/hicolor/28x28/actions/view-list-details.png'>hicolor/28x28/actions/view-list-details.png</file>
  <file alias='icons/hicolor/28x28/actions/view-list-icons.png'>hicolor/28x28/actions/view-list-icons.png</file>
@@ -1293,6 +1307,8 @@
  <file alias='icons/hicolor/32x32/actions/group.png'>hicolor/32x32/actions/group.png</file>
  <file alias='icons/hicolor/32x32/actions/paste.png'>hicolor/32x32/actions/paste.png</file>
  <file alias='icons/hicolor/32x32/actions/plugin.png'>hicolor/32x32/actions/plugin.png</file>
+ <file alias='icons/hicolor/32x32/actions/raise-bottom.png'>hicolor/32x32/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/32x32/actions/raise-top.png'>hicolor/32x32/actions/raise-top.png</file>
  <file alias='icons/hicolor/32x32/actions/select.png'>hicolor/32x32/actions/select.png</file>
  <file alias='icons/hicolor/32x32/actions/view-list-details.png'>hicolor/32x32/actions/view-list-details.png</file>
  <file alias='icons/hicolor/32x32/actions/view-list-icons.png'>hicolor/32x32/actions/view-list-icons.png</file>
@@ -1475,6 +1491,8 @@
  <file alias='icons/hicolor/48x48/actions/group.png'>hicolor/48x48/actions/group.png</file>
  <file alias='icons/hicolor/48x48/actions/paste.png'>hicolor/48x48/actions/paste.png</file>
  <file alias='icons/hicolor/48x48/actions/plugin.png'>hicolor/48x48/actions/plugin.png</file>
+ <file alias='icons/hicolor/48x48/actions/raise-bottom.png'>hicolor/48x48/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/48x48/actions/raise-top.png'>hicolor/48x48/actions/raise-top.png</file>
  <file alias='icons/hicolor/48x48/actions/select.png'>hicolor/48x48/actions/select.png</file>
  <file alias='icons/hicolor/48x48/actions/view-list-details.png'>hicolor/48x48/actions/view-list-details.png</file>
  <file alias='icons/hicolor/48x48/actions/view-list-icons.png'>hicolor/48x48/actions/view-list-icons.png</file>
@@ -1657,6 +1675,8 @@
  <file alias='icons/hicolor/64x64/actions/group.png'>hicolor/64x64/actions/group.png</file>
  <file alias='icons/hicolor/64x64/actions/paste.png'>hicolor/64x64/actions/paste.png</file>
  <file alias='icons/hicolor/64x64/actions/plugin.png'>hicolor/64x64/actions/plugin.png</file>
+ <file alias='icons/hicolor/64x64/actions/raise-bottom.png'>hicolor/64x64/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/64x64/actions/raise-top.png'>hicolor/64x64/actions/raise-top.png</file>
  <file alias='icons/hicolor/64x64/actions/select.png'>hicolor/64x64/actions/select.png</file>
  <file alias='icons/hicolor/64x64/actions/view-list-details.png'>hicolor/64x64/actions/view-list-details.png</file>
  <file alias='icons/hicolor/64x64/actions/view-list-icons.png'>hicolor/64x64/actions/view-list-icons.png</file>
@@ -1839,6 +1859,8 @@
  <file alias='icons/hicolor/96x96/actions/group.png'>hicolor/96x96/actions/group.png</file>
  <file alias='icons/hicolor/96x96/actions/paste.png'>hicolor/96x96/actions/paste.png</file>
  <file alias='icons/hicolor/96x96/actions/plugin.png'>hicolor/96x96/actions/plugin.png</file>
+ <file alias='icons/hicolor/96x96/actions/raise-bottom.png'>hicolor/96x96/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/96x96/actions/raise-top.png'>hicolor/96x96/actions/raise-top.png</file>
  <file alias='icons/hicolor/96x96/actions/select.png'>hicolor/96x96/actions/select.png</file>
  <file alias='icons/hicolor/96x96/actions/view-list-details.png'>hicolor/96x96/actions/view-list-details.png</file>
  <file alias='icons/hicolor/96x96/actions/view-list-icons.png'>hicolor/96x96/actions/view-list-icons.png</file>
@@ -2021,6 +2043,8 @@
  <file alias='icons/hicolor/128x128/actions/group.png'>hicolor/128x128/actions/group.png</file>
  <file alias='icons/hicolor/128x128/actions/paste.png'>hicolor/128x128/actions/paste.png</file>
  <file alias='icons/hicolor/128x128/actions/plugin.png'>hicolor/128x128/actions/plugin.png</file>
+ <file alias='icons/hicolor/128x128/actions/raise-bottom.png'>hicolor/128x128/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/128x128/actions/raise-top.png'>hicolor/128x128/actions/raise-top.png</file>
  <file alias='icons/hicolor/128x128/actions/select.png'>hicolor/128x128/actions/select.png</file>
  <file alias='icons/hicolor/128x128/actions/view-list-details.png'>hicolor/128x128/actions/view-list-details.png</file>
  <file alias='icons/hicolor/128x128/actions/view-list-icons.png'>hicolor/128x128/actions/view-list-icons.png</file>
@@ -2203,6 +2227,8 @@
  <file alias='icons/hicolor/192x192/actions/group.png'>hicolor/192x192/actions/group.png</file>
  <file alias='icons/hicolor/192x192/actions/paste.png'>hicolor/192x192/actions/paste.png</file>
  <file alias='icons/hicolor/192x192/actions/plugin.png'>hicolor/192x192/actions/plugin.png</file>
+ <file alias='icons/hicolor/192x192/actions/raise-bottom.png'>hicolor/192x192/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/192x192/actions/raise-top.png'>hicolor/192x192/actions/raise-top.png</file>
  <file alias='icons/hicolor/192x192/actions/select.png'>hicolor/192x192/actions/select.png</file>
  <file alias='icons/hicolor/192x192/actions/view-list-details.png'>hicolor/192x192/actions/view-list-details.png</file>
  <file alias='icons/hicolor/192x192/actions/view-list-icons.png'>hicolor/192x192/actions/view-list-icons.png</file>
@@ -2385,6 +2411,8 @@
  <file alias='icons/hicolor/256x256/actions/group.png'>hicolor/256x256/actions/group.png</file>
  <file alias='icons/hicolor/256x256/actions/paste.png'>hicolor/256x256/actions/paste.png</file>
  <file alias='icons/hicolor/256x256/actions/plugin.png'>hicolor/256x256/actions/plugin.png</file>
+ <file alias='icons/hicolor/256x256/actions/raise-bottom.png'>hicolor/256x256/actions/raise-bottom.png</file>
+ <file alias='icons/hicolor/256x256/actions/raise-top.png'>hicolor/256x256/actions/raise-top.png</file>
  <file alias='icons/hicolor/256x256/actions/select.png'>hicolor/256x256/actions/select.png</file>
  <file alias='icons/hicolor/256x256/actions/view-list-details.png'>hicolor/256x256/actions/view-list-details.png</file>
  <file alias='icons/hicolor/256x256/actions/view-list-icons.png'>hicolor/256x256/actions/view-list-icons.png</file>
