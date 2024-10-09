@@ -9,6 +9,7 @@
  <file alias='icons/hicolor/16x16/actions/document-new.png'>hicolor/16x16/actions/document-new.png</file>
  <file alias='icons/hicolor/16x16/actions/document-open.png'>hicolor/16x16/actions/document-open.png</file>
  <file alias='icons/hicolor/16x16/actions/document-save.png'>hicolor/16x16/actions/document-save.png</file>
+ <file alias='icons/hicolor/16x16/actions/file_import.png'>hicolor/16x16/actions/file_import.png</file>
  <file alias='icons/hicolor/16x16/actions/file-new.png'>hicolor/16x16/actions/file-new.png</file>
  <file alias='icons/hicolor/16x16/actions/folder-new.png'>hicolor/16x16/actions/folder-new.png</file>
  <file alias='icons/hicolor/16x16/actions/fullscreen.png'>hicolor/16x16/actions/fullscreen.png</file>
@@ -193,6 +194,7 @@
  <file alias='icons/hicolor/17x17/actions/document-new.png'>hicolor/17x17/actions/document-new.png</file>
  <file alias='icons/hicolor/17x17/actions/document-open.png'>hicolor/17x17/actions/document-open.png</file>
  <file alias='icons/hicolor/17x17/actions/document-save.png'>hicolor/17x17/actions/document-save.png</file>
+ <file alias='icons/hicolor/17x17/actions/file_import.png'>hicolor/17x17/actions/file_import.png</file>
  <file alias='icons/hicolor/17x17/actions/file-new.png'>hicolor/17x17/actions/file-new.png</file>
  <file alias='icons/hicolor/17x17/actions/folder-new.png'>hicolor/17x17/actions/folder-new.png</file>
  <file alias='icons/hicolor/17x17/actions/fullscreen.png'>hicolor/17x17/actions/fullscreen.png</file>
@@ -377,6 +379,7 @@
  <file alias='icons/hicolor/20x20/actions/document-new.png'>hicolor/20x20/actions/document-new.png</file>
  <file alias='icons/hicolor/20x20/actions/document-open.png'>hicolor/20x20/actions/document-open.png</file>
  <file alias='icons/hicolor/20x20/actions/document-save.png'>hicolor/20x20/actions/document-save.png</file>
+ <file alias='icons/hicolor/20x20/actions/file_import.png'>hicolor/20x20/actions/file_import.png</file>
  <file alias='icons/hicolor/20x20/actions/file-new.png'>hicolor/20x20/actions/file-new.png</file>
  <file alias='icons/hicolor/20x20/actions/folder-new.png'>hicolor/20x20/actions/folder-new.png</file>
  <file alias='icons/hicolor/20x20/actions/fullscreen.png'>hicolor/20x20/actions/fullscreen.png</file>
@@ -561,6 +564,7 @@
  <file alias='icons/hicolor/22x22/actions/document-new.png'>hicolor/22x22/actions/document-new.png</file>
  <file alias='icons/hicolor/22x22/actions/document-open.png'>hicolor/22x22/actions/document-open.png</file>
  <file alias='icons/hicolor/22x22/actions/document-save.png'>hicolor/22x22/actions/document-save.png</file>
+ <file alias='icons/hicolor/22x22/actions/file_import.png'>hicolor/22x22/actions/file_import.png</file>
  <file alias='icons/hicolor/22x22/actions/file-new.png'>hicolor/22x22/actions/file-new.png</file>
  <file alias='icons/hicolor/22x22/actions/folder-new.png'>hicolor/22x22/actions/folder-new.png</file>
  <file alias='icons/hicolor/22x22/actions/fullscreen.png'>hicolor/22x22/actions/fullscreen.png</file>
@@ -745,6 +749,7 @@
  <file alias='icons/hicolor/24x24/actions/document-new.png'>hicolor/24x24/actions/document-new.png</file>
  <file alias='icons/hicolor/24x24/actions/document-open.png'>hicolor/24x24/actions/document-open.png</file>
  <file alias='icons/hicolor/24x24/actions/document-save.png'>hicolor/24x24/actions/document-save.png</file>
+ <file alias='icons/hicolor/24x24/actions/file_import.png'>hicolor/24x24/actions/file_import.png</file>
  <file alias='icons/hicolor/24x24/actions/file-new.png'>hicolor/24x24/actions/file-new.png</file>
  <file alias='icons/hicolor/24x24/actions/folder-new.png'>hicolor/24x24/actions/folder-new.png</file>
  <file alias='icons/hicolor/24x24/actions/fullscreen.png'>hicolor/24x24/actions/fullscreen.png</file>
@@ -929,6 +934,7 @@
  <file alias='icons/hicolor/26x26/actions/document-new.png'>hicolor/26x26/actions/document-new.png</file>
  <file alias='icons/hicolor/26x26/actions/document-open.png'>hicolor/26x26/actions/document-open.png</file>
  <file alias='icons/hicolor/26x26/actions/document-save.png'>hicolor/26x26/actions/document-save.png</file>
+ <file alias='icons/hicolor/26x26/actions/file_import.png'>hicolor/26x26/actions/file_import.png</file>
  <file alias='icons/hicolor/26x26/actions/file-new.png'>hicolor/26x26/actions/file-new.png</file>
  <file alias='icons/hicolor/26x26/actions/folder-new.png'>hicolor/26x26/actions/folder-new.png</file>
  <file alias='icons/hicolor/26x26/actions/fullscreen.png'>hicolor/26x26/actions/fullscreen.png</file>
@@ -1113,6 +1119,7 @@
  <file alias='icons/hicolor/28x28/actions/document-new.png'>hicolor/28x28/actions/document-new.png</file>
  <file alias='icons/hicolor/28x28/actions/document-open.png'>hicolor/28x28/actions/document-open.png</file>
  <file alias='icons/hicolor/28x28/actions/document-save.png'>hicolor/28x28/actions/document-save.png</file>
+ <file alias='icons/hicolor/28x28/actions/file_import.png'>hicolor/28x28/actions/file_import.png</file>
  <file alias='icons/hicolor/28x28/actions/file-new.png'>hicolor/28x28/actions/file-new.png</file>
  <file alias='icons/hicolor/28x28/actions/folder-new.png'>hicolor/28x28/actions/folder-new.png</file>
  <file alias='icons/hicolor/28x28/actions/fullscreen.png'>hicolor/28x28/actions/fullscreen.png</file>
@@ -1297,6 +1304,7 @@
  <file alias='icons/hicolor/32x32/actions/document-new.png'>hicolor/32x32/actions/document-new.png</file>
  <file alias='icons/hicolor/32x32/actions/document-open.png'>hicolor/32x32/actions/document-open.png</file>
  <file alias='icons/hicolor/32x32/actions/document-save.png'>hicolor/32x32/actions/document-save.png</file>
+ <file alias='icons/hicolor/32x32/actions/file_import.png'>hicolor/32x32/actions/file_import.png</file>
  <file alias='icons/hicolor/32x32/actions/file-new.png'>hicolor/32x32/actions/file-new.png</file>
  <file alias='icons/hicolor/32x32/actions/folder-new.png'>hicolor/32x32/actions/folder-new.png</file>
  <file alias='icons/hicolor/32x32/actions/fullscreen.png'>hicolor/32x32/actions/fullscreen.png</file>
@@ -1481,6 +1489,7 @@
  <file alias='icons/hicolor/48x48/actions/document-new.png'>hicolor/48x48/actions/document-new.png</file>
  <file alias='icons/hicolor/48x48/actions/document-open.png'>hicolor/48x48/actions/document-open.png</file>
  <file alias='icons/hicolor/48x48/actions/document-save.png'>hicolor/48x48/actions/document-save.png</file>
+ <file alias='icons/hicolor/48x48/actions/file_import.png'>hicolor/48x48/actions/file_import.png</file>
  <file alias='icons/hicolor/48x48/actions/file-new.png'>hicolor/48x48/actions/file-new.png</file>
  <file alias='icons/hicolor/48x48/actions/folder-new.png'>hicolor/48x48/actions/folder-new.png</file>
  <file alias='icons/hicolor/48x48/actions/fullscreen.png'>hicolor/48x48/actions/fullscreen.png</file>
@@ -1665,6 +1674,7 @@
  <file alias='icons/hicolor/64x64/actions/document-new.png'>hicolor/64x64/actions/document-new.png</file>
  <file alias='icons/hicolor/64x64/actions/document-open.png'>hicolor/64x64/actions/document-open.png</file>
  <file alias='icons/hicolor/64x64/actions/document-save.png'>hicolor/64x64/actions/document-save.png</file>
+ <file alias='icons/hicolor/64x64/actions/file_import.png'>hicolor/64x64/actions/file_import.png</file>
  <file alias='icons/hicolor/64x64/actions/file-new.png'>hicolor/64x64/actions/file-new.png</file>
  <file alias='icons/hicolor/64x64/actions/folder-new.png'>hicolor/64x64/actions/folder-new.png</file>
  <file alias='icons/hicolor/64x64/actions/fullscreen.png'>hicolor/64x64/actions/fullscreen.png</file>
@@ -1849,6 +1859,7 @@
  <file alias='icons/hicolor/96x96/actions/document-new.png'>hicolor/96x96/actions/document-new.png</file>
  <file alias='icons/hicolor/96x96/actions/document-open.png'>hicolor/96x96/actions/document-open.png</file>
  <file alias='icons/hicolor/96x96/actions/document-save.png'>hicolor/96x96/actions/document-save.png</file>
+ <file alias='icons/hicolor/96x96/actions/file_import.png'>hicolor/96x96/actions/file_import.png</file>
  <file alias='icons/hicolor/96x96/actions/file-new.png'>hicolor/96x96/actions/file-new.png</file>
  <file alias='icons/hicolor/96x96/actions/folder-new.png'>hicolor/96x96/actions/folder-new.png</file>
  <file alias='icons/hicolor/96x96/actions/fullscreen.png'>hicolor/96x96/actions/fullscreen.png</file>
@@ -2033,6 +2044,7 @@
  <file alias='icons/hicolor/128x128/actions/document-new.png'>hicolor/128x128/actions/document-new.png</file>
  <file alias='icons/hicolor/128x128/actions/document-open.png'>hicolor/128x128/actions/document-open.png</file>
  <file alias='icons/hicolor/128x128/actions/document-save.png'>hicolor/128x128/actions/document-save.png</file>
+ <file alias='icons/hicolor/128x128/actions/file_import.png'>hicolor/128x128/actions/file_import.png</file>
  <file alias='icons/hicolor/128x128/actions/file-new.png'>hicolor/128x128/actions/file-new.png</file>
  <file alias='icons/hicolor/128x128/actions/folder-new.png'>hicolor/128x128/actions/folder-new.png</file>
  <file alias='icons/hicolor/128x128/actions/fullscreen.png'>hicolor/128x128/actions/fullscreen.png</file>
@@ -2217,6 +2229,7 @@
  <file alias='icons/hicolor/192x192/actions/document-new.png'>hicolor/192x192/actions/document-new.png</file>
  <file alias='icons/hicolor/192x192/actions/document-open.png'>hicolor/192x192/actions/document-open.png</file>
  <file alias='icons/hicolor/192x192/actions/document-save.png'>hicolor/192x192/actions/document-save.png</file>
+ <file alias='icons/hicolor/192x192/actions/file_import.png'>hicolor/192x192/actions/file_import.png</file>
  <file alias='icons/hicolor/192x192/actions/file-new.png'>hicolor/192x192/actions/file-new.png</file>
  <file alias='icons/hicolor/192x192/actions/folder-new.png'>hicolor/192x192/actions/folder-new.png</file>
  <file alias='icons/hicolor/192x192/actions/fullscreen.png'>hicolor/192x192/actions/fullscreen.png</file>
@@ -2401,6 +2414,7 @@
  <file alias='icons/hicolor/256x256/actions/document-new.png'>hicolor/256x256/actions/document-new.png</file>
  <file alias='icons/hicolor/256x256/actions/document-open.png'>hicolor/256x256/actions/document-open.png</file>
  <file alias='icons/hicolor/256x256/actions/document-save.png'>hicolor/256x256/actions/document-save.png</file>
+ <file alias='icons/hicolor/256x256/actions/file_import.png'>hicolor/256x256/actions/file_import.png</file>
  <file alias='icons/hicolor/256x256/actions/file-new.png'>hicolor/256x256/actions/file-new.png</file>
  <file alias='icons/hicolor/256x256/actions/folder-new.png'>hicolor/256x256/actions/folder-new.png</file>
  <file alias='icons/hicolor/256x256/actions/fullscreen.png'>hicolor/256x256/actions/fullscreen.png</file>
