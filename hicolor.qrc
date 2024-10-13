@@ -117,6 +117,7 @@
  <file alias='icons/hicolor/16x16/legacy/linked.png'>hicolor/16x16/legacy/linked.png</file>
  <file alias='icons/hicolor/16x16/legacy/locked.png'>hicolor/16x16/legacy/locked.png</file>
  <file alias='icons/hicolor/16x16/legacy/loop2.png'>hicolor/16x16/legacy/loop2.png</file>
+ <file alias='icons/hicolor/16x16/legacy/loop3.png'>hicolor/16x16/legacy/loop3.png</file>
  <file alias='icons/hicolor/16x16/legacy/loop_back.png'>hicolor/16x16/legacy/loop_back.png</file>
  <file alias='icons/hicolor/16x16/legacy/loop_forwards.png'>hicolor/16x16/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/16x16/legacy/loop.png'>hicolor/16x16/legacy/loop.png</file>
@@ -302,6 +303,7 @@
  <file alias='icons/hicolor/17x17/legacy/linked.png'>hicolor/17x17/legacy/linked.png</file>
  <file alias='icons/hicolor/17x17/legacy/locked.png'>hicolor/17x17/legacy/locked.png</file>
  <file alias='icons/hicolor/17x17/legacy/loop2.png'>hicolor/17x17/legacy/loop2.png</file>
+ <file alias='icons/hicolor/17x17/legacy/loop3.png'>hicolor/17x17/legacy/loop3.png</file>
  <file alias='icons/hicolor/17x17/legacy/loop_back.png'>hicolor/17x17/legacy/loop_back.png</file>
  <file alias='icons/hicolor/17x17/legacy/loop_forwards.png'>hicolor/17x17/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/17x17/legacy/loop.png'>hicolor/17x17/legacy/loop.png</file>
@@ -487,6 +489,7 @@
  <file alias='icons/hicolor/20x20/legacy/linked.png'>hicolor/20x20/legacy/linked.png</file>
  <file alias='icons/hicolor/20x20/legacy/locked.png'>hicolor/20x20/legacy/locked.png</file>
  <file alias='icons/hicolor/20x20/legacy/loop2.png'>hicolor/20x20/legacy/loop2.png</file>
+ <file alias='icons/hicolor/20x20/legacy/loop3.png'>hicolor/20x20/legacy/loop3.png</file>
  <file alias='icons/hicolor/20x20/legacy/loop_back.png'>hicolor/20x20/legacy/loop_back.png</file>
  <file alias='icons/hicolor/20x20/legacy/loop_forwards.png'>hicolor/20x20/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/20x20/legacy/loop.png'>hicolor/20x20/legacy/loop.png</file>
@@ -672,6 +675,7 @@
  <file alias='icons/hicolor/22x22/legacy/linked.png'>hicolor/22x22/legacy/linked.png</file>
  <file alias='icons/hicolor/22x22/legacy/locked.png'>hicolor/22x22/legacy/locked.png</file>
  <file alias='icons/hicolor/22x22/legacy/loop2.png'>hicolor/22x22/legacy/loop2.png</file>
+ <file alias='icons/hicolor/22x22/legacy/loop3.png'>hicolor/22x22/legacy/loop3.png</file>
  <file alias='icons/hicolor/22x22/legacy/loop_back.png'>hicolor/22x22/legacy/loop_back.png</file>
  <file alias='icons/hicolor/22x22/legacy/loop_forwards.png'>hicolor/22x22/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/22x22/legacy/loop.png'>hicolor/22x22/legacy/loop.png</file>
@@ -857,6 +861,7 @@
  <file alias='icons/hicolor/24x24/legacy/linked.png'>hicolor/24x24/legacy/linked.png</file>
  <file alias='icons/hicolor/24x24/legacy/locked.png'>hicolor/24x24/legacy/locked.png</file>
  <file alias='icons/hicolor/24x24/legacy/loop2.png'>hicolor/24x24/legacy/loop2.png</file>
+ <file alias='icons/hicolor/24x24/legacy/loop3.png'>hicolor/24x24/legacy/loop3.png</file>
  <file alias='icons/hicolor/24x24/legacy/loop_back.png'>hicolor/24x24/legacy/loop_back.png</file>
  <file alias='icons/hicolor/24x24/legacy/loop_forwards.png'>hicolor/24x24/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/24x24/legacy/loop.png'>hicolor/24x24/legacy/loop.png</file>
@@ -1042,6 +1047,7 @@
  <file alias='icons/hicolor/26x26/legacy/linked.png'>hicolor/26x26/legacy/linked.png</file>
  <file alias='icons/hicolor/26x26/legacy/locked.png'>hicolor/26x26/legacy/locked.png</file>
  <file alias='icons/hicolor/26x26/legacy/loop2.png'>hicolor/26x26/legacy/loop2.png</file>
+ <file alias='icons/hicolor/26x26/legacy/loop3.png'>hicolor/26x26/legacy/loop3.png</file>
  <file alias='icons/hicolor/26x26/legacy/loop_back.png'>hicolor/26x26/legacy/loop_back.png</file>
  <file alias='icons/hicolor/26x26/legacy/loop_forwards.png'>hicolor/26x26/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/26x26/legacy/loop.png'>hicolor/26x26/legacy/loop.png</file>
@@ -1227,6 +1233,7 @@
  <file alias='icons/hicolor/28x28/legacy/linked.png'>hicolor/28x28/legacy/linked.png</file>
  <file alias='icons/hicolor/28x28/legacy/locked.png'>hicolor/28x28/legacy/locked.png</file>
  <file alias='icons/hicolor/28x28/legacy/loop2.png'>hicolor/28x28/legacy/loop2.png</file>
+ <file alias='icons/hicolor/28x28/legacy/loop3.png'>hicolor/28x28/legacy/loop3.png</file>
  <file alias='icons/hicolor/28x28/legacy/loop_back.png'>hicolor/28x28/legacy/loop_back.png</file>
  <file alias='icons/hicolor/28x28/legacy/loop_forwards.png'>hicolor/28x28/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/28x28/legacy/loop.png'>hicolor/28x28/legacy/loop.png</file>
@@ -1412,6 +1419,7 @@
  <file alias='icons/hicolor/32x32/legacy/linked.png'>hicolor/32x32/legacy/linked.png</file>
  <file alias='icons/hicolor/32x32/legacy/locked.png'>hicolor/32x32/legacy/locked.png</file>
  <file alias='icons/hicolor/32x32/legacy/loop2.png'>hicolor/32x32/legacy/loop2.png</file>
+ <file alias='icons/hicolor/32x32/legacy/loop3.png'>hicolor/32x32/legacy/loop3.png</file>
  <file alias='icons/hicolor/32x32/legacy/loop_back.png'>hicolor/32x32/legacy/loop_back.png</file>
  <file alias='icons/hicolor/32x32/legacy/loop_forwards.png'>hicolor/32x32/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/32x32/legacy/loop.png'>hicolor/32x32/legacy/loop.png</file>
@@ -1597,6 +1605,7 @@
  <file alias='icons/hicolor/48x48/legacy/linked.png'>hicolor/48x48/legacy/linked.png</file>
  <file alias='icons/hicolor/48x48/legacy/locked.png'>hicolor/48x48/legacy/locked.png</file>
  <file alias='icons/hicolor/48x48/legacy/loop2.png'>hicolor/48x48/legacy/loop2.png</file>
+ <file alias='icons/hicolor/48x48/legacy/loop3.png'>hicolor/48x48/legacy/loop3.png</file>
  <file alias='icons/hicolor/48x48/legacy/loop_back.png'>hicolor/48x48/legacy/loop_back.png</file>
  <file alias='icons/hicolor/48x48/legacy/loop_forwards.png'>hicolor/48x48/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/48x48/legacy/loop.png'>hicolor/48x48/legacy/loop.png</file>
@@ -1782,6 +1791,7 @@
  <file alias='icons/hicolor/64x64/legacy/linked.png'>hicolor/64x64/legacy/linked.png</file>
  <file alias='icons/hicolor/64x64/legacy/locked.png'>hicolor/64x64/legacy/locked.png</file>
  <file alias='icons/hicolor/64x64/legacy/loop2.png'>hicolor/64x64/legacy/loop2.png</file>
+ <file alias='icons/hicolor/64x64/legacy/loop3.png'>hicolor/64x64/legacy/loop3.png</file>
  <file alias='icons/hicolor/64x64/legacy/loop_back.png'>hicolor/64x64/legacy/loop_back.png</file>
  <file alias='icons/hicolor/64x64/legacy/loop_forwards.png'>hicolor/64x64/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/64x64/legacy/loop.png'>hicolor/64x64/legacy/loop.png</file>
@@ -1967,6 +1977,7 @@
  <file alias='icons/hicolor/96x96/legacy/linked.png'>hicolor/96x96/legacy/linked.png</file>
  <file alias='icons/hicolor/96x96/legacy/locked.png'>hicolor/96x96/legacy/locked.png</file>
  <file alias='icons/hicolor/96x96/legacy/loop2.png'>hicolor/96x96/legacy/loop2.png</file>
+ <file alias='icons/hicolor/96x96/legacy/loop3.png'>hicolor/96x96/legacy/loop3.png</file>
  <file alias='icons/hicolor/96x96/legacy/loop_back.png'>hicolor/96x96/legacy/loop_back.png</file>
  <file alias='icons/hicolor/96x96/legacy/loop_forwards.png'>hicolor/96x96/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/96x96/legacy/loop.png'>hicolor/96x96/legacy/loop.png</file>
@@ -2152,6 +2163,7 @@
  <file alias='icons/hicolor/128x128/legacy/linked.png'>hicolor/128x128/legacy/linked.png</file>
  <file alias='icons/hicolor/128x128/legacy/locked.png'>hicolor/128x128/legacy/locked.png</file>
  <file alias='icons/hicolor/128x128/legacy/loop2.png'>hicolor/128x128/legacy/loop2.png</file>
+ <file alias='icons/hicolor/128x128/legacy/loop3.png'>hicolor/128x128/legacy/loop3.png</file>
  <file alias='icons/hicolor/128x128/legacy/loop_back.png'>hicolor/128x128/legacy/loop_back.png</file>
  <file alias='icons/hicolor/128x128/legacy/loop_forwards.png'>hicolor/128x128/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/128x128/legacy/loop.png'>hicolor/128x128/legacy/loop.png</file>
@@ -2337,6 +2349,7 @@
  <file alias='icons/hicolor/192x192/legacy/linked.png'>hicolor/192x192/legacy/linked.png</file>
  <file alias='icons/hicolor/192x192/legacy/locked.png'>hicolor/192x192/legacy/locked.png</file>
  <file alias='icons/hicolor/192x192/legacy/loop2.png'>hicolor/192x192/legacy/loop2.png</file>
+ <file alias='icons/hicolor/192x192/legacy/loop3.png'>hicolor/192x192/legacy/loop3.png</file>
  <file alias='icons/hicolor/192x192/legacy/loop_back.png'>hicolor/192x192/legacy/loop_back.png</file>
  <file alias='icons/hicolor/192x192/legacy/loop_forwards.png'>hicolor/192x192/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/192x192/legacy/loop.png'>hicolor/192x192/legacy/loop.png</file>
@@ -2522,6 +2535,7 @@
  <file alias='icons/hicolor/256x256/legacy/linked.png'>hicolor/256x256/legacy/linked.png</file>
  <file alias='icons/hicolor/256x256/legacy/locked.png'>hicolor/256x256/legacy/locked.png</file>
  <file alias='icons/hicolor/256x256/legacy/loop2.png'>hicolor/256x256/legacy/loop2.png</file>
+ <file alias='icons/hicolor/256x256/legacy/loop3.png'>hicolor/256x256/legacy/loop3.png</file>
  <file alias='icons/hicolor/256x256/legacy/loop_back.png'>hicolor/256x256/legacy/loop_back.png</file>
  <file alias='icons/hicolor/256x256/legacy/loop_forwards.png'>hicolor/256x256/legacy/loop_forwards.png</file>
  <file alias='icons/hicolor/256x256/legacy/loop.png'>hicolor/256x256/legacy/loop.png</file>
